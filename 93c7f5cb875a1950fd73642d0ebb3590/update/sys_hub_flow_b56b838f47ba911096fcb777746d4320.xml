@@ -28,15 +28,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b56b838f47ba911096fcb777746d4320</sys_id>
-        <sys_mod_count>121</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Retrieve Ledger Account</sys_name>
         <sys_overrides/>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_hub_flow_b56b838f47ba911096fcb777746d4320</sys_update_name>
-        <sys_updated_by>bcone</sys_updated_by>
-        <sys_updated_on>2022-11-13 16:53:35</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:44:49</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=b56b838f47ba911096fcb777746d4320"/>
@@ -485,8 +485,7 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=4d40530747fa911096fcb777746d43c9"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Parse_RFC_Response">3e5c7ab14756d51096fcb777746d4335</action_type>
+        <action_type display_value="">3e5c7ab14756d51096fcb777746d4335</action_type>
         <action_type_parent/>
         <comment/>
         <display_text/>
@@ -516,39 +515,13 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:38:33</sys_updated_on>
         <value>,﻿</value>
-        <variable display_value="Delimiter">39b15c20472edd1086887562846d438d</variable>
+        <variable display_value="">39b15c20472edd1086887562846d438d</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=5040530747fa911096fcb777746d43b3"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>deli</field>
-        <id>5040530747fa911096fcb777746d43b3</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:33</sys_created_on>
-        <sys_id>2440530747fa911096fcb777746d43b4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:38:33</sys_updated_on>
-        <table>var__m_sys_hub_action_input_3e5c7ab14756d51096fcb777746d4335</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>json_string</field>
-        <id>5040530747fa911096fcb777746d43b3</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:33</sys_created_on>
-        <sys_id>e440530747fa911096fcb777746d43b4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:38:33</sys_updated_on>
-        <table>var__m_sys_hub_action_input_3e5c7ab14756d51096fcb777746d4335</table>
-        <value>{{3c6655f3-bfc4-41b4-be98-8cf8894f3c03.output}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=5040530747fa911096fcb777746d43b3"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=5040530747fa911096fcb777746d43b3"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Execute RFC">878053f3c7043010678d208c95c26025</action_type>
+        <action_type display_value="">878053f3c7043010678d208c95c26025</action_type>
         <action_type_parent/>
         <comment/>
         <display_text/>
@@ -578,7 +551,7 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-09 10:58:30</sys_updated_on>
         <value>fb2b979947cfd51086887562846d435f</value>
-        <variable display_value="RFC">478053f3c7043010678d208c95c2602f</variable>
+        <variable display_value="">478053f3c7043010678d208c95c2602f</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -592,7 +565,7 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:38:32</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">4b8053f3c7043010678d208c95c26026</variable>
+        <variable display_value="">4b8053f3c7043010678d208c95c26026</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -606,7 +579,7 @@
         <sys_updated_by>bcone</sys_updated_by>
         <sys_updated_on>2022-11-10 07:23:48</sys_updated_on>
         <value>{"children":[{"children":[{"name":"TYPE","label":"TYPE","type":"string"},{"name":"ID","label":"ID","type":"string"},{"name":"NUMBER","label":"NUMBER","type":"string"},{"name":"MESSAGE","label":"MESSAGE","type":"string"},{"name":"LOG_NO","label":"LOG_NO","type":"string"},{"name":"LOG_MSG_NO","label":"LOG_MSG_NO","type":"string"},{"name":"MESSAGE_V1","label":"MESSAGE_V1","type":"string"},{"name":"MESSAGE_V2","label":"MESSAGE_V2","type":"string"},{"name":"MESSAGE_V3","label":"MESSAGE_V3","type":"string"},{"name":"MESSAGE_V4","label":"MESSAGE_V4","type":"string"},{"name":"PARAMETER","label":"PARAMETER","type":"string"},{"name":"ROW","label":"ROW","type":"integer"},{"name":"FIELD","label":"FIELD","type":"string"},{"name":"SYSTEM","label":"SYSTEM","type":"string"}],"name":"ET_RETURN","attributes":{"child_type":"object"},"label":"Return table [ ET_RETURN ]","type":"array.object"},{"children":[{"name":"WA","label":"Application data [ WA ]","type":"string"},{"name":"WA1","label":"Application data [ WA1 ]","type":"string"},{"name":"WA2","label":"Application data [ WA2 ]","type":"string"},{"name":"WA3","label":"Application data [ WA3 ]","type":"string"},{"name":"WA4","label":"Application data [ WA4 ]","type":"string"},{"name":"WA5","label":"Application data [ WA5 ]","type":"string"},{"name":"WA6","label":"Application data [ WA6 ]","type":"string"},{"name":"WA7","label":"Application data [ WA7 ]","type":"string"},{"name":"WA8","label":"Application data [ WA8 ]","type":"string"},{"name":"WA9","label":"Application data [ WA9 ]","type":"string"},{"name":"WA10","label":"Application data [ WA10 ]","type":"string"},{"name":"WA11","label":"Application data [ WA11 ]","type":"string"},{"name":"WA12","label":"Application data [ WA12 ]","type":"string"},{"name":"WA13","label":"Application data [ WA13 ]","type":"string"},{"name":"WA14","label":"Application data [ WA14 ]","type":"string"},{"name":"WA15","label":"Application data [ WA15 ]","type":"string"},{"name":"WA16","label":"Application data [ WA16 ]","type":"string"},{"name":"WA17","label":"Application data [ WA17 ]","type":"string"},{"name":"WA18","label":"Application data [ WA18 ]","type":"string"},{"name":"WA19","label":"Application data [ WA19 ]","type":"string"},{"name":"WA20","label":"Application data [ WA20 ]","type":"string"},{"name":"WA21","label":"Application data [ WA21 ]","type":"string"},{"name":"WA22","label":"Application data [ WA22 ]","type":"string"},{"name":"WA23","label":"Application data [ WA23 ]","type":"string"},{"name":"WA24","label":"Application data [ WA24 ]","type":"string"},{"name":"WA25","label":"Application data [ WA25 ]","type":"string"},{"name":"WA26","label":"Application data [ WA26 ]","type":"string"},{"name":"WA27","label":"Application data [ WA27 ]","type":"string"},{"name":"WA28","label":"Application data [ WA28 ]","type":"string"},{"name":"WA29","label":"Application data [ WA29 ]","type":"string"},{"name":"WA30","label":"Application data [ WA30 ]","type":"string"}],"name":"IT_DATA","attributes":{"child_type":"object"},"label":"Search Result Format: 8000-Byte Field [ IT_DATA ]","type":"array.object"},{"children":[{"name":"FIELDNAME","label":"Field Name","type":"string"},{"name":"OFFSET","label":"Offset of a field","type":"string"},{"name":"LENGTH","label":"No of Characters","type":"string"},{"name":"TYPE","label":"ABAP type","type":"string"},{"name":"FIELDTEXT","label":"Short Description","type":"string"}],"name":"IT_FIELDS","attributes":{"child_type":"object"},"label":"RFC Table Read: Description of Fields to Retrieve [ IT_FIELDS ]","type":"array.object"},{"children":[{"name":"TEXT","label":"Text field","type":"string"}],"name":"IT_OPTIONS","attributes":{"child_type":"object"},"label":"RFC Table Read: Select Options / WHERE Clause [ IT_OPTIONS ]","type":"array.object"}],"type":"object","attributes":{"dynamic":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"ec3feb55-c033-40de-b020-c5065f65edc0"}}</value>
-        <variable display_value="Response">078053f3c7043010678d208c95c26045</variable>
+        <variable display_value="">078053f3c7043010678d208c95c26045</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -620,63 +593,13 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-07 08:20:53</sys_updated_on>
         <value/>
-        <variable display_value="Import and Changing Tab Inputs">878053f3c7043010678d208c95c26037</variable>
+        <variable display_value="">878053f3c7043010678d208c95c26037</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=9c40530747fa911096fcb777746d4371"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>9c40530747fa911096fcb777746d4371</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:32</sys_created_on>
-        <sys_id>5840530747fa911096fcb777746d4374</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:38:32</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>dynamic_hidden_input_output</field>
-        <id>9c40530747fa911096fcb777746d4371</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:32</sys_created_on>
-        <sys_id>9040530747fa911096fcb777746d4374</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:38:32</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>import_and_changing_tab_inputs</field>
-        <id>9c40530747fa911096fcb777746d4371</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:32</sys_created_on>
-        <sys_id>d840530747fa911096fcb777746d43a6</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-09 13:55:25</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value>IV_QUERY_TABLE=SKB1^IV_DELIMITER=,﻿^IV_ROWCOUNT=700^IV_ROWSKIPS={{flow_variable.row_skipped}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>rfc</field>
-        <id>9c40530747fa911096fcb777746d4371</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:32</sys_created_on>
-        <sys_id>1840530747fa911096fcb777746d43a6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:38:32</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=9c40530747fa911096fcb777746d4371"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=9c40530747fa911096fcb777746d4371"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Segregate Ledger Account Response">abea6103472a1d5096fcb777746d437f</action_type>
+        <action_type display_value="">abea6103472a1d5096fcb777746d437f</action_type>
         <action_type_parent/>
         <comment/>
         <display_text/>
@@ -694,19 +617,6 @@
         <ui_id>56ea4c4d-430f-4ee3-85f4-74e0734d28de</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ac40530747fa911096fcb777746d43c0"/>
-    <sys_element_mapping action="delete_multiple" query="id=ac40530747fa911096fcb777746d43c0"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>json_string</field>
-        <id>ac40530747fa911096fcb777746d43c0</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:38:33</sys_created_on>
-        <sys_id>ec40530747fa911096fcb777746d43c1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:38:33</sys_updated_on>
-        <table>var__m_sys_hub_action_input_abea6103472a1d5096fcb777746d437f</table>
-        <value>{{88c14d9a-3624-40f9-b130-dee56dbb015f.item}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=ac40530747fa911096fcb777746d43c0"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=ac40530747fa911096fcb777746d43c0"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=b56b838f47ba911096fcb777746d4320"/>
@@ -1989,11 +1899,11 @@
         <sys_created_on>2022-11-01 07:52:29</sys_created_on>
         <sys_id>2473930b47fa911096fcb777746d431b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service Record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b56b838f47ba911096fcb777746d4320_service_record_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:29</sys_updated_on>
         <url/>
@@ -2012,11 +1922,11 @@
         <sys_created_on>2022-11-01 07:52:30</sys_created_on>
         <sys_id>3473930b47fa911096fcb777746d432d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b56b838f47ba911096fcb777746d4320_connection_name_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:30</sys_updated_on>
         <url/>
@@ -2037,11 +1947,11 @@
         <sys_created_on>2022-11-01 07:52:31</sys_created_on>
         <sys_id>0173930b47fa911096fcb777746d4354</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error Message</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_b56b838f47ba911096fcb777746d4320_error_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:31</sys_updated_on>
         <url/>
@@ -2060,11 +1970,11 @@
         <sys_created_on>2022-11-01 07:52:31</sys_created_on>
         <sys_id>b873930b47fa911096fcb777746d4337</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_b56b838f47ba911096fcb777746d4320_status_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:31</sys_updated_on>
         <url/>
@@ -2615,9 +2525,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=5576570f47fa911096fcb777746d43ee"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Segregate Ledger Account Response">abea6103472a1d5096fcb777746d437f</action_type>
-        <action_type_parent display_value="Segregate Ledger Account Response">40d0598347a61d5096fcb777746d4335</action_type_parent>
+        <action_type display_value="">abea6103472a1d5096fcb777746d437f</action_type>
+        <action_type_parent display_value="">40d0598347a61d5096fcb777746d4335</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Retrieve Ledger Account">03f0534747fa911096fcb777746d436c</flow>
@@ -2634,26 +2543,12 @@
         <ui_id>56ea4c4d-430f-4ee3-85f4-74e0734d28de</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6ff0534747fa911096fcb777746d43c8"/>
-    <sys_element_mapping action="delete_multiple" query="id=6ff0534747fa911096fcb777746d43c8"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>json_string</field>
-        <id>6ff0534747fa911096fcb777746d43c8</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:46</sys_created_on>
-        <sys_id>abf0534747fa911096fcb777746d43c9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:41:46</sys_updated_on>
-        <table>var__m_sys_hub_action_input_abea6103472a1d5096fcb777746d437f</table>
-        <value>{{88c14d9a-3624-40f9-b130-dee56dbb015f.item}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=6ff0534747fa911096fcb777746d43c8"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=6ff0534747fa911096fcb777746d43c8"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Parse_RFC_Response">3e5c7ab14756d51096fcb777746d4335</action_type>
-        <action_type_parent display_value="Parse_RFC_Response">d24abebd4716d51096fcb777746d43e6</action_type_parent>
+        <action_type display_value="">3e5c7ab14756d51096fcb777746d4335</action_type>
+        <action_type_parent display_value="">d24abebd4716d51096fcb777746d43e6</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Retrieve Ledger Account">03f0534747fa911096fcb777746d436c</flow>
@@ -2682,40 +2577,14 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:41:46</sys_updated_on>
         <value>,﻿</value>
-        <variable display_value="Delimiter">39b15c20472edd1086887562846d438d</variable>
+        <variable display_value="">39b15c20472edd1086887562846d438d</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=a3f0534747fa911096fcb777746d43b5"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>deli</field>
-        <id>a3f0534747fa911096fcb777746d43b5</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:46</sys_created_on>
-        <sys_id>63f0534747fa911096fcb777746d43b6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:41:46</sys_updated_on>
-        <table>var__m_sys_hub_action_input_3e5c7ab14756d51096fcb777746d4335</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>json_string</field>
-        <id>a3f0534747fa911096fcb777746d43b5</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:46</sys_created_on>
-        <sys_id>27f0534747fa911096fcb777746d43b6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:41:46</sys_updated_on>
-        <table>var__m_sys_hub_action_input_3e5c7ab14756d51096fcb777746d4335</table>
-        <value>{{3c6655f3-bfc4-41b4-be98-8cf8894f3c03.output}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=a3f0534747fa911096fcb777746d43b5"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=a3f0534747fa911096fcb777746d43b5"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Execute RFC">878053f3c7043010678d208c95c26025</action_type>
-        <action_type_parent display_value="Execute RFC">006b07ffc7c03010678d208c95c26001</action_type_parent>
+        <action_type display_value="">878053f3c7043010678d208c95c26025</action_type>
+        <action_type_parent display_value="">006b07ffc7c03010678d208c95c26001</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Retrieve Ledger Account">03f0534747fa911096fcb777746d436c</flow>
@@ -2744,7 +2613,7 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-02 07:06:43</sys_updated_on>
         <value>{"children":[{"children":[{"name":"TYPE","label":"TYPE","type":"string"},{"name":"ID","label":"ID","type":"string"},{"name":"NUMBER","label":"NUMBER","type":"string"},{"name":"MESSAGE","label":"MESSAGE","type":"string"},{"name":"LOG_NO","label":"LOG_NO","type":"string"},{"name":"LOG_MSG_NO","label":"LOG_MSG_NO","type":"string"},{"name":"MESSAGE_V1","label":"MESSAGE_V1","type":"string"},{"name":"MESSAGE_V2","label":"MESSAGE_V2","type":"string"},{"name":"MESSAGE_V3","label":"MESSAGE_V3","type":"string"},{"name":"MESSAGE_V4","label":"MESSAGE_V4","type":"string"},{"name":"PARAMETER","label":"PARAMETER","type":"string"},{"name":"ROW","label":"ROW","type":"integer"},{"name":"FIELD","label":"FIELD","type":"string"},{"name":"SYSTEM","label":"SYSTEM","type":"string"}],"name":"ET_RETURN","attributes":{"child_type":"object"},"label":"Return table [ ET_RETURN ]","type":"array.object"},{"children":[{"name":"WA","label":"Application data [ WA ]","type":"string"},{"name":"WA1","label":"Application data [ WA1 ]","type":"string"},{"name":"WA2","label":"Application data [ WA2 ]","type":"string"},{"name":"WA3","label":"Application data [ WA3 ]","type":"string"},{"name":"WA4","label":"Application data [ WA4 ]","type":"string"},{"name":"WA5","label":"Application data [ WA5 ]","type":"string"},{"name":"WA6","label":"Application data [ WA6 ]","type":"string"},{"name":"WA7","label":"Application data [ WA7 ]","type":"string"},{"name":"WA8","label":"Application data [ WA8 ]","type":"string"},{"name":"WA9","label":"Application data [ WA9 ]","type":"string"},{"name":"WA10","label":"Application data [ WA10 ]","type":"string"},{"name":"WA11","label":"Application data [ WA11 ]","type":"string"},{"name":"WA12","label":"Application data [ WA12 ]","type":"string"},{"name":"WA13","label":"Application data [ WA13 ]","type":"string"},{"name":"WA14","label":"Application data [ WA14 ]","type":"string"},{"name":"WA15","label":"Application data [ WA15 ]","type":"string"},{"name":"WA16","label":"Application data [ WA16 ]","type":"string"},{"name":"WA17","label":"Application data [ WA17 ]","type":"string"},{"name":"WA18","label":"Application data [ WA18 ]","type":"string"},{"name":"WA19","label":"Application data [ WA19 ]","type":"string"},{"name":"WA20","label":"Application data [ WA20 ]","type":"string"},{"name":"WA21","label":"Application data [ WA21 ]","type":"string"},{"name":"WA22","label":"Application data [ WA22 ]","type":"string"},{"name":"WA23","label":"Application data [ WA23 ]","type":"string"},{"name":"WA24","label":"Application data [ WA24 ]","type":"string"},{"name":"WA25","label":"Application data [ WA25 ]","type":"string"},{"name":"WA26","label":"Application data [ WA26 ]","type":"string"},{"name":"WA27","label":"Application data [ WA27 ]","type":"string"},{"name":"WA28","label":"Application data [ WA28 ]","type":"string"},{"name":"WA29","label":"Application data [ WA29 ]","type":"string"},{"name":"WA30","label":"Application data [ WA30 ]","type":"string"}],"name":"IT_DATA","attributes":{"child_type":"object"},"label":"Search Result Format: 8000-Byte Field [ IT_DATA ]","type":"array.object"},{"children":[{"name":"FIELDNAME","label":"Field Name","type":"string"},{"name":"OFFSET","label":"Offset of a field","type":"string"},{"name":"LENGTH","label":"No of Characters","type":"string"},{"name":"TYPE","label":"ABAP type","type":"string"},{"name":"FIELDTEXT","label":"Short Description","type":"string"}],"name":"IT_FIELDS","attributes":{"child_type":"object"},"label":"RFC Table Read: Description of Fields to Retrieve [ IT_FIELDS ]","type":"array.object"},{"children":[{"name":"TEXT","label":"Text field","type":"string"}],"name":"IT_OPTIONS","attributes":{"child_type":"object"},"label":"RFC Table Read: Select Options / WHERE Clause [ IT_OPTIONS ]","type":"array.object"}],"type":"object","attributes":{"dynamic":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"ec3feb55-c033-40de-b020-c5065f65edc0"}}</value>
-        <variable display_value="Response">078053f3c7043010678d208c95c26045</variable>
+        <variable display_value="">078053f3c7043010678d208c95c26045</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -2758,7 +2627,7 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-07 08:22:00</sys_updated_on>
         <value/>
-        <variable display_value="Import and Changing Tab Inputs">878053f3c7043010678d208c95c26037</variable>
+        <variable display_value="">878053f3c7043010678d208c95c26037</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -2772,7 +2641,7 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-09 10:58:48</sys_updated_on>
         <value>fb2b979947cfd51086887562846d435f</value>
-        <variable display_value="RFC">478053f3c7043010678d208c95c2602f</variable>
+        <variable display_value="">478053f3c7043010678d208c95c2602f</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -2786,57 +2655,8 @@
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:41:46</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">4b8053f3c7043010678d208c95c26026</variable>
+        <variable display_value="">4b8053f3c7043010678d208c95c26026</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=dbf0534747fa911096fcb777746d4392"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>dbf0534747fa911096fcb777746d4392</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:45</sys_created_on>
-        <sys_id>27f0534747fa911096fcb777746d4394</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:41:45</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>dynamic_hidden_input_output</field>
-        <id>dbf0534747fa911096fcb777746d4392</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:45</sys_created_on>
-        <sys_id>63f0534747fa911096fcb777746d4394</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:41:45</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>import_and_changing_tab_inputs</field>
-        <id>dbf0534747fa911096fcb777746d4392</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:46</sys_created_on>
-        <sys_id>abf0534747fa911096fcb777746d4394</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-09 13:55:43</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value>IV_QUERY_TABLE=SKB1^IV_DELIMITER=,﻿^IV_ROWCOUNT=700^IV_ROWSKIPS={{flow_variable.row_skipped}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>rfc</field>
-        <id>dbf0534747fa911096fcb777746d4392</id>
-        <sys_created_by>Priyanshi</sys_created_by>
-        <sys_created_on>2022-11-01 07:41:46</sys_created_on>
-        <sys_id>e7f0534747fa911096fcb777746d4394</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Priyanshi</sys_updated_by>
-        <sys_updated_on>2022-11-01 07:41:46</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=dbf0534747fa911096fcb777746d4392"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=dbf0534747fa911096fcb777746d4392"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=03f0534747fa911096fcb777746d436c"/>
@@ -4119,11 +3939,11 @@
         <sys_created_on>2022-11-01 07:52:45</sys_created_on>
         <sys_id>9c83170b47fa911096fcb777746d432d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_03f0534747fa911096fcb777746d436c_connection_name_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:45</sys_updated_on>
         <url/>
@@ -4142,11 +3962,11 @@
         <sys_created_on>2022-11-01 07:52:44</sys_created_on>
         <sys_id>d883170b47fa911096fcb777746d4321</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service Record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_03f0534747fa911096fcb777746d436c_service_record_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:44</sys_updated_on>
         <url/>
@@ -4167,11 +3987,11 @@
         <sys_created_on>2022-11-01 07:52:46</sys_created_on>
         <sys_id>2883170b47fa911096fcb777746d433e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_03f0534747fa911096fcb777746d436c_status_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:46</sys_updated_on>
         <url/>
@@ -4190,11 +4010,11 @@
         <sys_created_on>2022-11-01 07:52:46</sys_created_on>
         <sys_id>7083170b47fa911096fcb777746d4353</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error Message</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_03f0534747fa911096fcb777746d436c_error_en</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-01 07:52:46</sys_updated_on>
         <url/>

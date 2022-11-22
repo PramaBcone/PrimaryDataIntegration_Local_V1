@@ -29,12 +29,12 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Segregate Payment Term</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_5769994d87431d1093264085dabb3546</sys_update_name>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 18:22:19</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:34:52</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -164,7 +164,7 @@
         <sys_created_on>2022-11-07 04:11:57</sys_created_on>
         <sys_id>a08a5d8d87431d1093264085dabb357f</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 05:59:47</sys_updated_on>
     </sys_hub_step_instance>
@@ -312,7 +312,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-15 07:11:24</sys_updated_on>
@@ -393,7 +393,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-16 12:30:34</sys_updated_on>
@@ -475,7 +475,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 05:59:47</sys_updated_on>
@@ -556,7 +556,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:11:58</sys_updated_on>
@@ -587,9 +587,9 @@
         <sys_id>3c79f1a587db111093264085dabb35de</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Total Rows</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_a08a5d8d87431d1093264085dabb357f_total_rows_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 05:59:47</sys_updated_on>
@@ -610,9 +610,9 @@
         <sys_id>748a5d8d87431d1093264085dabb358b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Payment Terms</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:11:58</sys_updated_on>
@@ -686,7 +686,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:11:56</sys_updated_on>
@@ -768,7 +768,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:11:56</sys_updated_on>
@@ -853,7 +853,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:13:23</sys_updated_on>
@@ -938,7 +938,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 05:59:48</sys_updated_on>
@@ -1023,7 +1023,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:13:23</sys_updated_on>
@@ -1108,7 +1108,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:13:47</sys_updated_on>
@@ -1152,9 +1152,9 @@
         <sys_id>588a5d8d87431d1093264085dabb355c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Input String</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:11:56</sys_updated_on>
@@ -1175,9 +1175,9 @@
         <sys_id>9c8a5d8d87431d1093264085dabb3560</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Delimiter</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:11:56</sys_updated_on>
@@ -1200,10 +1200,10 @@
         <sys_id>2dda91cd87431d1093264085dabb3577</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Don't Treat as Error</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_5769994d87431d1093264085dabb3546___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:13:23</sys_updated_on>
         <url/>
@@ -1223,9 +1223,9 @@
         <sys_id>adda91cd87431d1093264085dabb3564</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Action Status</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:13:23</sys_updated_on>
@@ -1246,9 +1246,9 @@
         <sys_id>b1da91cd87431d1093264085dabb357c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Payment Terms</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:13:24</sys_updated_on>
@@ -1269,9 +1269,9 @@
         <sys_id>fc79f1a587db111093264085dabb35ee</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Total Rows</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_5769994d87431d1093264085dabb3546_total_rows_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 05:59:48</sys_updated_on>
@@ -1325,7 +1325,7 @@
         <sys_overrides/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 06:00:51</sys_updated_on>
@@ -1444,7 +1444,7 @@
         <sys_created_on>2022-11-07 04:14:08</sys_created_on>
         <sys_id>280b55cd87431d1093264085dabb35f8</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 06:00:55</sys_updated_on>
     </sys_hub_step_instance>
@@ -1592,7 +1592,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-15 07:11:30</sys_updated_on>
@@ -1673,7 +1673,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-16 12:30:40</sys_updated_on>
@@ -1755,7 +1755,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
@@ -1836,7 +1836,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 06:00:54</sys_updated_on>
@@ -1867,9 +1867,9 @@
         <sys_id>05b9f9a587db111093264085dabb359f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Total Rows</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_280b55cd87431d1093264085dabb35f8_total_rows_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 06:00:54</sys_updated_on>
@@ -1890,9 +1890,9 @@
         <sys_id>b80b95cd87431d1093264085dabb3505</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Payment Terms</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
@@ -1966,7 +1966,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:08</sys_updated_on>
@@ -2048,7 +2048,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:08</sys_updated_on>
@@ -2133,7 +2133,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
@@ -2218,7 +2218,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
@@ -2303,7 +2303,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 06:00:55</sys_updated_on>
@@ -2388,7 +2388,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
@@ -2432,9 +2432,9 @@
         <sys_id>ec0b55cd87431d1093264085dabb35da</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Input String</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:08</sys_updated_on>
@@ -2455,9 +2455,9 @@
         <sys_id>ec0b55cd87431d1093264085dabb35de</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Delimiter</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:08</sys_updated_on>
@@ -2480,9 +2480,9 @@
         <sys_id>25b9f9a587db111093264085dabb35d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Total Rows</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2bfa55cd87431d1093264085dabb3593_total_rows_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 06:00:56</sys_updated_on>
@@ -2503,9 +2503,9 @@
         <sys_id>340b95cd87431d1093264085dabb3514</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Action Status</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
@@ -2526,10 +2526,10 @@
         <sys_id>b00b95cd87431d1093264085dabb3533</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Don't Treat as Error</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2bfa55cd87431d1093264085dabb3593___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>
         <url/>
@@ -2549,9 +2549,9 @@
         <sys_id>f80b95cd87431d1093264085dabb3537</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Payment Terms</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-07 04:14:09</sys_updated_on>

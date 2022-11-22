@@ -28,15 +28,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>31d95e8947a6155096fcb777746d4317</sys_id>
-        <sys_mod_count>87</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Fetch purchase organizations from SAP ECC</sys_name>
         <sys_overrides/>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_hub_flow_31d95e8947a6155096fcb777746d4317</sys_update_name>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-11-19 14:41:25</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:39:28</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=31d95e8947a6155096fcb777746d4317"/>
@@ -387,9 +387,8 @@
     <sys_hub_action_instance action="delete_multiple" query="flow=31d95e8947a6155096fcb777746d4317^sys_idNOT IN22d95e8947a6155096fcb777746d4393,39ef18fc4753511096fcb777746d4384,4bef18fc4753511096fcb777746d43db,4d51c801479f111096fcb777746d4358,6383720d472a155096fcb777746d4371,e5a2b80d4753511096fcb777746d43e3"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Execute RFC">878053f3c7043010678d208c95c26025</action_type>
-        <action_type_parent display_value="Execute RFC">006b07ffc7c03010678d208c95c26001</action_type_parent>
+        <action_type display_value="">878053f3c7043010678d208c95c26025</action_type>
+        <action_type_parent display_value="">006b07ffc7c03010678d208c95c26001</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Fetch purchase organizations from SAP ECC">31d95e8947a6155096fcb777746d4317</flow>
@@ -418,7 +417,7 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-19 10:16:34</sys_updated_on>
         <value/>
-        <variable display_value="Import and Changing Tab Inputs">878053f3c7043010678d208c95c26037</variable>
+        <variable display_value="">878053f3c7043010678d208c95c26037</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -432,7 +431,7 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-09 07:56:57</sys_updated_on>
         <value>fb2b979947cfd51086887562846d435f</value>
-        <variable display_value="RFC">478053f3c7043010678d208c95c2602f</variable>
+        <variable display_value="">478053f3c7043010678d208c95c2602f</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -446,7 +445,7 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-19 10:41:37</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">4b8053f3c7043010678d208c95c26026</variable>
+        <variable display_value="">4b8053f3c7043010678d208c95c26026</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -460,57 +459,8 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-19 10:41:37</sys_updated_on>
         <value>{"children":[{"children":[{"name":"TYPE","label":"TYPE","type":"string"},{"name":"ID","label":"ID","type":"string"},{"name":"NUMBER","label":"NUMBER","type":"string"},{"name":"MESSAGE","label":"MESSAGE","type":"string"},{"name":"LOG_NO","label":"LOG_NO","type":"string"},{"name":"LOG_MSG_NO","label":"LOG_MSG_NO","type":"string"},{"name":"MESSAGE_V1","label":"MESSAGE_V1","type":"string"},{"name":"MESSAGE_V2","label":"MESSAGE_V2","type":"string"},{"name":"MESSAGE_V3","label":"MESSAGE_V3","type":"string"},{"name":"MESSAGE_V4","label":"MESSAGE_V4","type":"string"},{"name":"PARAMETER","label":"PARAMETER","type":"string"},{"name":"ROW","label":"ROW","type":"integer"},{"name":"FIELD","label":"FIELD","type":"string"},{"name":"SYSTEM","label":"SYSTEM","type":"string"}],"name":"ET_RETURN","attributes":{"child_type":"object"},"label":"Return table [ ET_RETURN ]","type":"array.object"},{"children":[{"name":"WA","label":"Application data [ WA ]","type":"string"},{"name":"WA1","label":"Application data [ WA1 ]","type":"string"},{"name":"WA2","label":"Application data [ WA2 ]","type":"string"},{"name":"WA3","label":"Application data [ WA3 ]","type":"string"},{"name":"WA4","label":"Application data [ WA4 ]","type":"string"},{"name":"WA5","label":"Application data [ WA5 ]","type":"string"},{"name":"WA6","label":"Application data [ WA6 ]","type":"string"},{"name":"WA7","label":"Application data [ WA7 ]","type":"string"},{"name":"WA8","label":"Application data [ WA8 ]","type":"string"},{"name":"WA9","label":"Application data [ WA9 ]","type":"string"},{"name":"WA10","label":"Application data [ WA10 ]","type":"string"},{"name":"WA11","label":"Application data [ WA11 ]","type":"string"},{"name":"WA12","label":"Application data [ WA12 ]","type":"string"},{"name":"WA13","label":"Application data [ WA13 ]","type":"string"},{"name":"WA14","label":"Application data [ WA14 ]","type":"string"},{"name":"WA15","label":"Application data [ WA15 ]","type":"string"},{"name":"WA16","label":"Application data [ WA16 ]","type":"string"},{"name":"WA17","label":"Application data [ WA17 ]","type":"string"},{"name":"WA18","label":"Application data [ WA18 ]","type":"string"},{"name":"WA19","label":"Application data [ WA19 ]","type":"string"},{"name":"WA20","label":"Application data [ WA20 ]","type":"string"},{"name":"WA21","label":"Application data [ WA21 ]","type":"string"},{"name":"WA22","label":"Application data [ WA22 ]","type":"string"},{"name":"WA23","label":"Application data [ WA23 ]","type":"string"},{"name":"WA24","label":"Application data [ WA24 ]","type":"string"},{"name":"WA25","label":"Application data [ WA25 ]","type":"string"},{"name":"WA26","label":"Application data [ WA26 ]","type":"string"},{"name":"WA27","label":"Application data [ WA27 ]","type":"string"},{"name":"WA28","label":"Application data [ WA28 ]","type":"string"},{"name":"WA29","label":"Application data [ WA29 ]","type":"string"},{"name":"WA30","label":"Application data [ WA30 ]","type":"string"}],"name":"IT_DATA","attributes":{"child_type":"object"},"label":"Search Result Format: 8000-Byte Field [ IT_DATA ]","type":"array.object"},{"children":[{"name":"FIELDNAME","label":"Field Name","type":"string"},{"name":"OFFSET","label":"Offset of a field","type":"string"},{"name":"LENGTH","label":"No of Characters","type":"string"},{"name":"TYPE","label":"ABAP type","type":"string"},{"name":"FIELDTEXT","label":"Short Description","type":"string"}],"name":"IT_FIELDS","attributes":{"child_type":"object"},"label":"RFC Table Read: Description of Fields to Retrieve [ IT_FIELDS ]","type":"array.object"},{"children":[{"name":"TEXT","label":"Text field","type":"string"}],"name":"IT_OPTIONS","attributes":{"child_type":"object"},"label":"RFC Table Read: Select Options / WHERE Clause [ IT_OPTIONS ]","type":"array.object"}],"type":"object","attributes":{"dynamic":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"ec3feb55-c033-40de-b020-c5065f65edc0"}}</value>
-        <variable display_value="Response">078053f3c7043010678d208c95c26045</variable>
+        <variable display_value="">078053f3c7043010678d208c95c26045</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=22d95e8947a6155096fcb777746d4393"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>22d95e8947a6155096fcb777746d4393</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-13 12:17:18</sys_created_on>
-        <sys_id>e6d95e8947a6155096fcb777746d4395</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-11-19 10:41:36</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>dynamic_hidden_input_output</field>
-        <id>22d95e8947a6155096fcb777746d4393</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-13 12:17:18</sys_created_on>
-        <sys_id>26d95e8947a6155096fcb777746d4395</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-10-13 12:17:18</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>import_and_changing_tab_inputs</field>
-        <id>22d95e8947a6155096fcb777746d4393</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-13 12:17:18</sys_created_on>
-        <sys_id>6ed95e8947a6155096fcb777746d4395</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-11-19 10:16:34</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value>{{ab7e0b7a-064d-4f85-9061-4400322bbc76.encoded_query}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>rfc</field>
-        <id>22d95e8947a6155096fcb777746d4393</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-13 12:17:18</sys_created_on>
-        <sys_id>aad95e8947a6155096fcb777746d4395</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-10-13 12:17:18</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=22d95e8947a6155096fcb777746d4393"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=22d95e8947a6155096fcb777746d4393"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -577,8 +527,7 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=39ef18fc4753511096fcb777746d4384"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Generate Encoded Query">3b7fe8fbc70130100409e122c7c26049</action_type>
+        <action_type display_value="">3b7fe8fbc70130100409e122c7c26049</action_type>
         <action_type_parent/>
         <comment/>
         <display_text/>
@@ -608,21 +557,8 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-18 15:33:12</sys_updated_on>
         <value>{}</value>
-        <variable display_value="Fields">7b7fe8fbc70130100409e122c7c2604a</variable>
+        <variable display_value="">7b7fe8fbc70130100409e122c7c2604a</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=4bef18fc4753511096fcb777746d43db"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>fields</field>
-        <id>4bef18fc4753511096fcb777746d43db</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-11-18 15:33:12</sys_created_on>
-        <sys_id>0fef18fc4753511096fcb777746d43dc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-11-19 13:28:36</sys_updated_on>
-        <table>var__m_sys_hub_action_input_3b7fe8fbc70130100409e122c7c26049</table>
-        <value>{"IV_DELIMITER":",﻿","IV_ROWCOUNT":"{{flow_variable.row_count}}","IV_QUERY_TABLE":"T024E","IV_ROWSKIPS":"{{flow_variable.row_skips}}"}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=4bef18fc4753511096fcb777746d43db"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=4bef18fc4753511096fcb777746d43db"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -2132,11 +2068,11 @@
         <sys_created_on>2022-10-13 12:17:16</sys_created_on>
         <sys_id>06d95e8947a6155096fcb777746d4324</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service Record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_31d95e8947a6155096fcb777746d4317_service_record_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-13 12:17:16</sys_updated_on>
         <url/>
@@ -2155,11 +2091,11 @@
         <sys_created_on>2022-10-25 08:41:17</sys_created_on>
         <sys_id>0b7bdb7047ba991086887562846d434d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_31d95e8947a6155096fcb777746d4317_connection_name_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-25 08:41:17</sys_updated_on>
         <url/>
@@ -2180,11 +2116,11 @@
         <sys_created_on>2022-10-13 12:17:17</sys_created_on>
         <sys_id>d2d95e8947a6155096fcb777746d4329</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_31d95e8947a6155096fcb777746d4317_error_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-13 12:17:17</sys_updated_on>
         <url/>
@@ -2203,11 +2139,11 @@
         <sys_created_on>2022-10-13 12:17:17</sys_created_on>
         <sys_id>d6d95e8947a6155096fcb777746d436d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_31d95e8947a6155096fcb777746d4317_status_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-13 12:17:17</sys_updated_on>
         <url/>
@@ -2722,9 +2658,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=6e67648d4713511096fcb777746d439f"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Execute RFC">878053f3c7043010678d208c95c26025</action_type>
-        <action_type_parent display_value="Execute RFC">006b07ffc7c03010678d208c95c26001</action_type_parent>
+        <action_type display_value="">878053f3c7043010678d208c95c26025</action_type>
+        <action_type_parent display_value="">006b07ffc7c03010678d208c95c26001</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Fetch purchase organizations from SAP ECC">b8b08a1647e6595096fcb777746d4368</flow>
@@ -2753,7 +2688,7 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-09 07:59:28</sys_updated_on>
         <value>fb2b979947cfd51086887562846d435f</value>
-        <variable display_value="RFC">478053f3c7043010678d208c95c2602f</variable>
+        <variable display_value="">478053f3c7043010678d208c95c2602f</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -2767,7 +2702,7 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-25 11:26:43</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">4b8053f3c7043010678d208c95c26026</variable>
+        <variable display_value="">4b8053f3c7043010678d208c95c26026</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -2781,7 +2716,7 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-25 11:26:43</sys_updated_on>
         <value>{"children":[{"children":[{"name":"TYPE","label":"TYPE","type":"string"},{"name":"ID","label":"ID","type":"string"},{"name":"NUMBER","label":"NUMBER","type":"string"},{"name":"MESSAGE","label":"MESSAGE","type":"string"},{"name":"LOG_NO","label":"LOG_NO","type":"string"},{"name":"LOG_MSG_NO","label":"LOG_MSG_NO","type":"string"},{"name":"MESSAGE_V1","label":"MESSAGE_V1","type":"string"},{"name":"MESSAGE_V2","label":"MESSAGE_V2","type":"string"},{"name":"MESSAGE_V3","label":"MESSAGE_V3","type":"string"},{"name":"MESSAGE_V4","label":"MESSAGE_V4","type":"string"},{"name":"PARAMETER","label":"PARAMETER","type":"string"},{"name":"ROW","label":"ROW","type":"integer"},{"name":"FIELD","label":"FIELD","type":"string"},{"name":"SYSTEM","label":"SYSTEM","type":"string"}],"name":"ET_RETURN","attributes":{"child_type":"object"},"label":"Return table [ ET_RETURN ]","type":"array.object"},{"children":[{"name":"WA","label":"Application data [ WA ]","type":"string"},{"name":"WA1","label":"Application data [ WA1 ]","type":"string"},{"name":"WA2","label":"Application data [ WA2 ]","type":"string"},{"name":"WA3","label":"Application data [ WA3 ]","type":"string"},{"name":"WA4","label":"Application data [ WA4 ]","type":"string"},{"name":"WA5","label":"Application data [ WA5 ]","type":"string"},{"name":"WA6","label":"Application data [ WA6 ]","type":"string"},{"name":"WA7","label":"Application data [ WA7 ]","type":"string"},{"name":"WA8","label":"Application data [ WA8 ]","type":"string"},{"name":"WA9","label":"Application data [ WA9 ]","type":"string"},{"name":"WA10","label":"Application data [ WA10 ]","type":"string"},{"name":"WA11","label":"Application data [ WA11 ]","type":"string"},{"name":"WA12","label":"Application data [ WA12 ]","type":"string"},{"name":"WA13","label":"Application data [ WA13 ]","type":"string"},{"name":"WA14","label":"Application data [ WA14 ]","type":"string"},{"name":"WA15","label":"Application data [ WA15 ]","type":"string"},{"name":"WA16","label":"Application data [ WA16 ]","type":"string"},{"name":"WA17","label":"Application data [ WA17 ]","type":"string"},{"name":"WA18","label":"Application data [ WA18 ]","type":"string"},{"name":"WA19","label":"Application data [ WA19 ]","type":"string"},{"name":"WA20","label":"Application data [ WA20 ]","type":"string"},{"name":"WA21","label":"Application data [ WA21 ]","type":"string"},{"name":"WA22","label":"Application data [ WA22 ]","type":"string"},{"name":"WA23","label":"Application data [ WA23 ]","type":"string"},{"name":"WA24","label":"Application data [ WA24 ]","type":"string"},{"name":"WA25","label":"Application data [ WA25 ]","type":"string"},{"name":"WA26","label":"Application data [ WA26 ]","type":"string"},{"name":"WA27","label":"Application data [ WA27 ]","type":"string"},{"name":"WA28","label":"Application data [ WA28 ]","type":"string"},{"name":"WA29","label":"Application data [ WA29 ]","type":"string"},{"name":"WA30","label":"Application data [ WA30 ]","type":"string"}],"name":"IT_DATA","attributes":{"child_type":"object"},"label":"Search Result Format: 8000-Byte Field [ IT_DATA ]","type":"array.object"},{"children":[{"name":"FIELDNAME","label":"Field Name","type":"string"},{"name":"OFFSET","label":"Offset of a field","type":"string"},{"name":"LENGTH","label":"No of Characters","type":"string"},{"name":"TYPE","label":"ABAP type","type":"string"},{"name":"FIELDTEXT","label":"Short Description","type":"string"}],"name":"IT_FIELDS","attributes":{"child_type":"object"},"label":"RFC Table Read: Description of Fields to Retrieve [ IT_FIELDS ]","type":"array.object"},{"children":[{"name":"TEXT","label":"Text field","type":"string"}],"name":"IT_OPTIONS","attributes":{"child_type":"object"},"label":"RFC Table Read: Select Options / WHERE Clause [ IT_OPTIONS ]","type":"array.object"}],"type":"object","attributes":{"dynamic":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"ec3feb55-c033-40de-b020-c5065f65edc0"}}</value>
-        <variable display_value="Response">078053f3c7043010678d208c95c26045</variable>
+        <variable display_value="">078053f3c7043010678d208c95c26045</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -2795,64 +2730,14 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-19 10:44:23</sys_updated_on>
         <value/>
-        <variable display_value="Import and Changing Tab Inputs">878053f3c7043010678d208c95c26037</variable>
+        <variable display_value="">878053f3c7043010678d208c95c26037</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=6eb0ca1647e6595096fcb777746d434d"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>6eb0ca1647e6595096fcb777746d434d</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-17 07:39:56</sys_created_on>
-        <sys_id>aeb0ca1647e6595096fcb777746d434f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-10-25 11:26:43</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>dynamic_hidden_input_output</field>
-        <id>6eb0ca1647e6595096fcb777746d434d</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-17 07:39:56</sys_created_on>
-        <sys_id>eab0ca1647e6595096fcb777746d434f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-10-17 07:39:56</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>import_and_changing_tab_inputs</field>
-        <id>6eb0ca1647e6595096fcb777746d434d</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-17 07:39:56</sys_created_on>
-        <sys_id>26b0ca1647e6595096fcb777746d4350</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-11-19 10:44:23</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value>{{ab7e0b7a-064d-4f85-9061-4400322bbc76.encoded_query}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>rfc</field>
-        <id>6eb0ca1647e6595096fcb777746d434d</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-10-17 07:39:56</sys_created_on>
-        <sys_id>62b0ca1647e6595096fcb777746d4350</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-10-17 07:39:56</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=6eb0ca1647e6595096fcb777746d434d"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=6eb0ca1647e6595096fcb777746d434d"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Generate Encoded Query">3b7fe8fbc70130100409e122c7c26049</action_type>
-        <action_type_parent display_value="Generate Encoded Query">b7eba03bc70130100409e122c7c26023</action_type_parent>
+        <action_type display_value="">3b7fe8fbc70130100409e122c7c26049</action_type>
+        <action_type_parent display_value="">b7eba03bc70130100409e122c7c26023</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Fetch purchase organizations from SAP ECC">b8b08a1647e6595096fcb777746d4368</flow>
@@ -2881,21 +2766,8 @@
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-11-19 10:44:22</sys_updated_on>
         <value>{}</value>
-        <variable display_value="Fields">7b7fe8fbc70130100409e122c7c2604a</variable>
+        <variable display_value="">7b7fe8fbc70130100409e122c7c2604a</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=8e67648d4713511096fcb777746d4347"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>fields</field>
-        <id>8e67648d4713511096fcb777746d4347</id>
-        <sys_created_by>Midhat</sys_created_by>
-        <sys_created_on>2022-11-19 10:44:22</sys_created_on>
-        <sys_id>ce67648d4713511096fcb777746d4348</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>Midhat</sys_updated_by>
-        <sys_updated_on>2022-11-19 13:29:08</sys_updated_on>
-        <table>var__m_sys_hub_action_input_3b7fe8fbc70130100409e122c7c26049</table>
-        <value>{"IV_DELIMITER":",﻿","IV_ROWCOUNT":"{{flow_variable.row_count}}","IV_QUERY_TABLE":"T024E","IV_ROWSKIPS":"{{flow_variable.row_skips}}"}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=8e67648d4713511096fcb777746d4347"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=8e67648d4713511096fcb777746d4347"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -4405,11 +4277,11 @@
         <sys_created_on>2022-10-17 07:39:51</sys_created_on>
         <sys_id>91b08a1647e6595096fcb777746d439d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service Record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b8b08a1647e6595096fcb777746d4368_service_record_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-17 07:39:51</sys_updated_on>
         <url/>
@@ -4428,11 +4300,11 @@
         <sys_created_on>2022-10-25 08:42:35</sys_created_on>
         <sys_id>c2cb17b047ba991086887562846d435b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b8b08a1647e6595096fcb777746d4368_connection_name_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-25 08:42:35</sys_updated_on>
         <url/>
@@ -4453,11 +4325,11 @@
         <sys_created_on>2022-10-17 07:39:51</sys_created_on>
         <sys_id>11b08a1647e6595096fcb777746d43b3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_b8b08a1647e6595096fcb777746d4368_error_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-17 07:39:51</sys_updated_on>
         <url/>
@@ -4476,11 +4348,11 @@
         <sys_created_on>2022-10-17 07:39:53</sys_created_on>
         <sys_id>b9b08a1647e6595096fcb777746d43e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_b8b08a1647e6595096fcb777746d4368_status_en</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-17 07:39:53</sys_updated_on>
         <url/>

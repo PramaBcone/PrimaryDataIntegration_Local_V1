@@ -28,15 +28,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>093da4754717151086887562846d4338</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Fetch suppliers from SAP ECC</sys_name>
         <sys_overrides/>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_hub_flow_093da4754717151086887562846d4338</sys_update_name>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:49:22</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:37:24</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=093da4754717151086887562846d4338"/>
@@ -991,7 +991,7 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=b56d68754717151086887562846d4384"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Look up Vendors">06757cbd4717151086887562846d43ee</action_type>
+        <action_type display_value="">06757cbd4717151086887562846d43ee</action_type>
         <action_type_parent/>
         <comment/>
         <display_text/>
@@ -1021,7 +1021,7 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:04:16</sys_updated_on>
         <value>1</value>
-        <variable display_value="Row Count">7775bcbd4717151086887562846d4397</variable>
+        <variable display_value="">7775bcbd4717151086887562846d4397</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -1035,15 +1035,13 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:04:16</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">1f757cbd4717151086887562846d43f1</variable>
+        <variable display_value="">1f757cbd4717151086887562846d43f1</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee^id=bebab4354757151086887562846d43be"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=bebab4354757151086887562846d43be"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=bebab4354757151086887562846d43be"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Look up Vendors">06757cbd4717151086887562846d43ee</action_type>
+        <action_type display_value="">06757cbd4717151086887562846d43ee</action_type>
         <action_type_parent/>
         <comment/>
         <display_text/>
@@ -1073,7 +1071,7 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:29:24</sys_updated_on>
         <value/>
-        <variable display_value="Row Skips">b775bcbd4717151086887562846d433a</variable>
+        <variable display_value="">b775bcbd4717151086887562846d433a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -1087,7 +1085,7 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:29:24</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">1f757cbd4717151086887562846d43f1</variable>
+        <variable display_value="">1f757cbd4717151086887562846d43f1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -1101,45 +1099,8 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:29:24</sys_updated_on>
         <value>300</value>
-        <variable display_value="Row Count">7775bcbd4717151086887562846d4397</variable>
+        <variable display_value="">7775bcbd4717151086887562846d4397</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=c7704d794757151086887562846d4308"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>c7704d794757151086887562846d4308</id>
-        <sys_created_by>Prama</sys_created_by>
-        <sys_created_on>2022-11-21 20:29:23</sys_created_on>
-        <sys_id>83704d794757151086887562846d430a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:29:23</sys_updated_on>
-        <table>var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>row_count</field>
-        <id>c7704d794757151086887562846d4308</id>
-        <sys_created_by>Prama</sys_created_by>
-        <sys_created_on>2022-11-21 20:29:24</sys_created_on>
-        <sys_id>0f704d794757151086887562846d430a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:29:24</sys_updated_on>
-        <table>var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>row_skips</field>
-        <id>c7704d794757151086887562846d4308</id>
-        <sys_created_by>Prama</sys_created_by>
-        <sys_created_on>2022-11-21 20:29:23</sys_created_on>
-        <sys_id>4b704d794757151086887562846d430a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:29:23</sys_updated_on>
-        <table>var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee</table>
-        <value>{{flow_variable.row_skipped}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=c7704d794757151086887562846d4308"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=c7704d794757151086887562846d4308"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -2614,11 +2575,11 @@
         <sys_created_on>2022-11-21 19:05:13</sys_created_on>
         <sys_id>8e3da4754717151086887562846d43d9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service Record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_093da4754717151086887562846d4338_service_record_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:05:13</sys_updated_on>
         <url/>
@@ -2637,11 +2598,11 @@
         <sys_created_on>2022-11-21 19:05:13</sys_created_on>
         <sys_id>ca3da4754717151086887562846d43de</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_093da4754717151086887562846d4338_connection_name_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:05:13</sys_updated_on>
         <url/>
@@ -2662,11 +2623,11 @@
         <sys_created_on>2022-11-21 19:05:14</sys_created_on>
         <sys_id>1a3da4754717151086887562846d43e8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_093da4754717151086887562846d4338_status_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:05:14</sys_updated_on>
         <url/>
@@ -2685,11 +2646,11 @@
         <sys_created_on>2022-11-21 19:05:14</sys_created_on>
         <sys_id>1a3da4754717151086887562846d43eb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_093da4754717151086887562846d4338_error_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:05:14</sys_updated_on>
         <url/>
@@ -3255,8 +3216,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=1b2e68b54717151086887562846d4352"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Look up Vendors">06757cbd4717151086887562846d43ee</action_type>
-        <action_type_parent display_value="Look up Vendors">fa1574bd4717151086887562846d43cc</action_type_parent>
+        <action_type display_value="">06757cbd4717151086887562846d43ee</action_type>
+        <action_type_parent display_value="">fa1574bd4717151086887562846d43cc</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Fetch suppliers from SAP ECC">5d0ea4b54717151086887562846d4382</flow>
@@ -3285,7 +3246,7 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:48:31</sys_updated_on>
         <value>1</value>
-        <variable display_value="Row Count">7775bcbd4717151086887562846d4397</variable>
+        <variable display_value="">7775bcbd4717151086887562846d4397</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -3299,9 +3260,8 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:48:31</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">1f757cbd4717151086887562846d43f1</variable>
+        <variable display_value="">1f757cbd4717151086887562846d43f1</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee^id=1bd4c5bd4757151086887562846d4378"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=1bd4c5bd4757151086887562846d4378"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=1bd4c5bd4757151086887562846d4378"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -3482,9 +3442,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=5f1e28b54717151086887562846d4311"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Look up Vendors">06757cbd4717151086887562846d43ee</action_type>
-        <action_type_parent display_value="Look up Vendors">fa1574bd4717151086887562846d43cc</action_type_parent>
+        <action_type display_value="">06757cbd4717151086887562846d43ee</action_type>
+        <action_type_parent display_value="">fa1574bd4717151086887562846d43cc</action_type_parent>
         <comment/>
         <display_text/>
         <flow display_value="Fetch suppliers from SAP ECC">5d0ea4b54717151086887562846d4382</flow>
@@ -3513,7 +3472,7 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:48:32</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">1f757cbd4717151086887562846d43f1</variable>
+        <variable display_value="">1f757cbd4717151086887562846d43f1</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -3527,7 +3486,7 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:48:32</sys_updated_on>
         <value>300</value>
-        <variable display_value="Row Count">7775bcbd4717151086887562846d4397</variable>
+        <variable display_value="">7775bcbd4717151086887562846d4397</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -3541,45 +3500,8 @@
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 20:48:32</sys_updated_on>
         <value/>
-        <variable display_value="Row Skips">b775bcbd4717151086887562846d433a</variable>
+        <variable display_value="">b775bcbd4717151086887562846d433a</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=6fd4c5bd4757151086887562846d43e1"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>6fd4c5bd4757151086887562846d43e1</id>
-        <sys_created_by>Prama</sys_created_by>
-        <sys_created_on>2022-11-21 20:48:32</sys_created_on>
-        <sys_id>23d4c5bd4757151086887562846d43e3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:48:32</sys_updated_on>
-        <table>var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>row_count</field>
-        <id>6fd4c5bd4757151086887562846d43e1</id>
-        <sys_created_by>Prama</sys_created_by>
-        <sys_created_on>2022-11-21 20:48:32</sys_created_on>
-        <sys_id>a7d4c5bd4757151086887562846d43e3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:48:32</sys_updated_on>
-        <table>var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>row_skips</field>
-        <id>6fd4c5bd4757151086887562846d43e1</id>
-        <sys_created_by>Prama</sys_created_by>
-        <sys_created_on>2022-11-21 20:48:32</sys_created_on>
-        <sys_id>e3d4c5bd4757151086887562846d43e3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Prama</sys_updated_by>
-        <sys_updated_on>2022-11-21 20:48:32</sys_updated_on>
-        <table>var__m_sys_hub_action_input_06757cbd4717151086887562846d43ee</table>
-        <value>{{flow_variable.row_skipped}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=6fd4c5bd4757151086887562846d43e1"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=6fd4c5bd4757151086887562846d43e1"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -5369,11 +5291,11 @@
         <sys_created_on>2022-11-21 19:08:47</sys_created_on>
         <sys_id>620ea4b54717151086887562846d43cf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection Name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5d0ea4b54717151086887562846d4382_connection_name_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:08:47</sys_updated_on>
         <url/>
@@ -5392,11 +5314,11 @@
         <sys_created_on>2022-11-21 19:08:46</sys_created_on>
         <sys_id>c20ea4b54717151086887562846d43b7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service Record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5d0ea4b54717151086887562846d4382_service_record_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:08:46</sys_updated_on>
         <url/>
@@ -5417,11 +5339,11 @@
         <sys_created_on>2022-11-21 19:08:50</sys_created_on>
         <sys_id>030ea4b54717151086887562846d43f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_5d0ea4b54717151086887562846d4382_error_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:08:50</sys_updated_on>
         <url/>
@@ -5440,11 +5362,11 @@
         <sys_created_on>2022-11-21 19:08:49</sys_created_on>
         <sys_id>b60ea4b54717151086887562846d43eb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_5d0ea4b54717151086887562846d4382_status_en</sys_update_name>
         <sys_updated_by>Prama</sys_updated_by>
         <sys_updated_on>2022-11-21 19:08:49</sys_updated_on>
         <url/>

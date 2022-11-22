@@ -389,8 +389,8 @@
     <sys_hub_action_instance action="delete_multiple" query="flow=7265fb1c479b955096fcb777746d43f0^sys_idNOT IN04757f1c479b955096fcb777746d4345,05757f1c479b955096fcb777746d436f,59757f1c479b955096fcb777746d43ac,a9757f1c479b955096fcb777746d43b5,d0757f1c479b955096fcb777746d4368,d675bf1c479b955096fcb777746d4309,f275bf1c479b955096fcb777746d4329"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Execute RFC">878053f3c7043010678d208c95c26025</action_type>
-        <action_type_parent display_value="Execute RFC">006b07ffc7c03010678d208c95c26001</action_type_parent>
+        <action_type display_value="">878053f3c7043010678d208c95c26025</action_type>
+        <action_type_parent display_value="">006b07ffc7c03010678d208c95c26001</action_type_parent>
         <comment/>
         <compiled_snapshot>878053f3c7043010678d208c95c26025</compiled_snapshot>
         <display_text/>
@@ -420,7 +420,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:07</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">4b8053f3c7043010678d208c95c26026</variable>
+        <variable display_value="">4b8053f3c7043010678d208c95c26026</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -434,7 +434,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-18 04:45:09</sys_updated_on>
         <value>{"children":[],"type":"dynamic_object","attributes":{"dynamic":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"ec3feb55-c033-40de-b020-c5065f65edc0"}}</value>
-        <variable display_value="Response">078053f3c7043010678d208c95c26045</variable>
+        <variable display_value="">078053f3c7043010678d208c95c26045</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -448,7 +448,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:07</sys_updated_on>
         <value>IV_QUERY_TABLE=ASMD^IV_DELIMITER=,</value>
-        <variable display_value="Import and Changing Tab Inputs">878053f3c7043010678d208c95c26037</variable>
+        <variable display_value="">878053f3c7043010678d208c95c26037</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -462,9 +462,8 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:07</sys_updated_on>
         <value>fb2b979947cfd51086887562846d435f</value>
-        <variable display_value="RFC">478053f3c7043010678d208c95c2602f</variable>
+        <variable display_value="">478053f3c7043010678d208c95c2602f</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025^id=04757f1c479b955096fcb777746d4345"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=04757f1c479b955096fcb777746d4345"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=04757f1c479b955096fcb777746d4345"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -532,9 +531,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=05757f1c479b955096fcb777746d436f"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Execute RFC">878053f3c7043010678d208c95c26025</action_type>
-        <action_type_parent display_value="Execute RFC">006b07ffc7c03010678d208c95c26001</action_type_parent>
+        <action_type display_value="">878053f3c7043010678d208c95c26025</action_type>
+        <action_type_parent display_value="">006b07ffc7c03010678d208c95c26001</action_type_parent>
         <comment/>
         <compiled_snapshot>878053f3c7043010678d208c95c26025</compiled_snapshot>
         <display_text/>
@@ -564,7 +562,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:11</sys_updated_on>
         <value>fb2b979947cfd51086887562846d435f</value>
-        <variable display_value="RFC">478053f3c7043010678d208c95c2602f</variable>
+        <variable display_value="">478053f3c7043010678d208c95c2602f</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -578,7 +576,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:11</sys_updated_on>
         <value>d0578871dbad8010ea4494d9db9619d9</value>
-        <variable display_value="Connection Alias">4b8053f3c7043010678d208c95c26026</variable>
+        <variable display_value="">4b8053f3c7043010678d208c95c26026</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -592,7 +590,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-18 04:47:53</sys_updated_on>
         <value>{"children":[],"type":"dynamic_object","attributes":{"dynamic":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"ec3feb55-c033-40de-b020-c5065f65edc0"}}</value>
-        <variable display_value="Response">078053f3c7043010678d208c95c26045</variable>
+        <variable display_value="">078053f3c7043010678d208c95c26045</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -606,63 +604,13 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 18:14:16</sys_updated_on>
         <value/>
-        <variable display_value="Import and Changing Tab Inputs">878053f3c7043010678d208c95c26037</variable>
+        <variable display_value="">878053f3c7043010678d208c95c26037</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=59757f1c479b955096fcb777746d43ac"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>conn_alias</field>
-        <id>59757f1c479b955096fcb777746d43ac</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:11</sys_created_on>
-        <sys_id>91757f1c479b955096fcb777746d43ae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:11</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>dynamic_hidden_input_output</field>
-        <id>59757f1c479b955096fcb777746d43ac</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:11</sys_created_on>
-        <sys_id>dd757f1c479b955096fcb777746d43ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:11</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>import_and_changing_tab_inputs</field>
-        <id>59757f1c479b955096fcb777746d43ac</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:11</sys_created_on>
-        <sys_id>19757f1c479b955096fcb777746d43ae</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 18:14:15</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value>IV_QUERY_TABLE=ASMDT﻿^IV_DELIMITER=,﻿^IV_ROWCOUNT={{flow_variable.count}}^IV_ROWSKIPS={{flow_variable.rowskips}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>rfc</field>
-        <id>59757f1c479b955096fcb777746d43ac</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:11</sys_created_on>
-        <sys_id>55757f1c479b955096fcb777746d43ae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:11</sys_updated_on>
-        <table>var__m_sys_hub_action_input_878053f3c7043010678d208c95c26025</table>
-        <value/>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=59757f1c479b955096fcb777746d43ac"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=59757f1c479b955096fcb777746d43ac"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Segregate Service Master Description Response">4cca37b7470b155096fcb777746d4308</action_type>
+        <action_type display_value="">4cca37b7470b155096fcb777746d4308</action_type>
         <action_type_parent display_value="">d7c87737470b155096fcb777746d4386</action_type_parent>
         <comment/>
         <compiled_snapshot>4cca37b7470b155096fcb777746d4308</compiled_snapshot>
@@ -693,39 +641,13 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:12</sys_updated_on>
         <value>,﻿</value>
-        <variable display_value="Delimiter">51ca37b7470b155096fcb777746d4311</variable>
+        <variable display_value="">51ca37b7470b155096fcb777746d4311</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=a9757f1c479b955096fcb777746d43b5"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>delimiter</field>
-        <id>a9757f1c479b955096fcb777746d43b5</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:12</sys_created_on>
-        <sys_id>e575bf1c479b955096fcb777746d4301</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:12</sys_updated_on>
-        <table>var__m_sys_hub_action_input_4cca37b7470b155096fcb777746d4308</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>json_string</field>
-        <id>a9757f1c479b955096fcb777746d43b5</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:12</sys_created_on>
-        <sys_id>a975bf1c479b955096fcb777746d4301</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:12</sys_updated_on>
-        <table>var__m_sys_hub_action_input_4cca37b7470b155096fcb777746d4308</table>
-        <value>{{30a4f2c9-d39e-4fe2-bf02-33160c3dd403.output}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=a9757f1c479b955096fcb777746d43b5"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=a9757f1c479b955096fcb777746d43b5"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Segregate Service Master Response">7e483ff3470b155096fcb777746d4325</action_type>
+        <action_type display_value="">7e483ff3470b155096fcb777746d4325</action_type>
         <action_type_parent display_value="">6e853373470b155096fcb777746d4321</action_type_parent>
         <comment/>
         <compiled_snapshot>7e483ff3470b155096fcb777746d4325</compiled_snapshot>
@@ -756,33 +678,8 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:07</sys_updated_on>
         <value>,</value>
-        <variable display_value="Delimiter">6f483ff3470b155096fcb777746d432d</variable>
+        <variable display_value="">6f483ff3470b155096fcb777746d432d</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=d0757f1c479b955096fcb777746d4368"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>delimiter</field>
-        <id>d0757f1c479b955096fcb777746d4368</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:07</sys_created_on>
-        <sys_id>94757f1c479b955096fcb777746d4369</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:07</sys_updated_on>
-        <table>var__m_sys_hub_action_input_7e483ff3470b155096fcb777746d4325</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>json_string</field>
-        <id>d0757f1c479b955096fcb777746d4368</id>
-        <sys_created_by>shreenag.araga@snc</sys_created_by>
-        <sys_created_on>2022-11-17 17:49:07</sys_created_on>
-        <sys_id>58757f1c479b955096fcb777746d4369</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
-        <sys_updated_on>2022-11-17 17:49:07</sys_updated_on>
-        <table>var__m_sys_hub_action_input_7e483ff3470b155096fcb777746d4325</table>
-        <value>{{d6375c01-752e-49d2-b1d0-c3fe50abf54a.output}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=d0757f1c479b955096fcb777746d4368"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=d0757f1c479b955096fcb777746d4368"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -2487,11 +2384,11 @@
         <sys_created_on>2022-11-17 17:49:03</sys_created_on>
         <sys_id>d7653f1c479b955096fcb777746d4316</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Service record</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7265fb1c479b955096fcb777746d43f0_service_record_en</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:03</sys_updated_on>
         <url/>
@@ -2510,11 +2407,11 @@
         <sys_created_on>2022-11-17 17:49:03</sys_created_on>
         <sys_id>db653f1c479b955096fcb777746d438b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Connection name</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7265fb1c479b955096fcb777746d43f0_connection_name_en</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:03</sys_updated_on>
         <url/>
@@ -2535,11 +2432,11 @@
         <sys_created_on>2022-11-17 17:49:04</sys_created_on>
         <sys_id>23653f1c479b955096fcb777746d4398</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_7265fb1c479b955096fcb777746d43f0_status_en</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:04</sys_updated_on>
         <url/>
@@ -2558,11 +2455,11 @@
         <sys_created_on>2022-11-17 17:49:04</sys_created_on>
         <sys_id>a7653f1c479b955096fcb777746d4391</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Error</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_7265fb1c479b955096fcb777746d43f0_error_en</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-17 17:49:04</sys_updated_on>
         <url/>

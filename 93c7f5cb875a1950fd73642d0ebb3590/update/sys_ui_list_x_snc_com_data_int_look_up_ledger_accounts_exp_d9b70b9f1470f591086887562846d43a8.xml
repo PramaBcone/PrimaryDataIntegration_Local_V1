@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_client</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_g_l_account_number</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_g_l_account_additional_text</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_account_currency</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_company_code</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_by</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_by</element>
-            <list_id display_value="Primary Data Integration for SAP" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
+            <list_id display_value="x_snc_com_data_int_look_up_ledger_accounts" element="NULL" name="x_snc_com_data_int_look_up_ledger_accounts" parent="NULL" relationship="NULL" sys_domain="global" view="ef70b9f1470f591086887562846d43a9">a370fdf1470f591086887562846d4301</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -153,9 +153,9 @@
             <sys_id>a370fdf1470f591086887562846d4301</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_com_data_int_look_up_ledger_accounts</sys_name>
-            <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+            <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+            <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_com_data_int_look_up_ledger_accounts_exp_d9b70b9f1470f591086887562846d43a8</sys_update_name>
             <sys_updated_by>Priyanshi</sys_updated_by>
             <sys_updated_on>2022-11-09 13:43:26</sys_updated_on>

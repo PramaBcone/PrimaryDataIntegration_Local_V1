@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Integration Source</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Integration Source</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">aaee91404f13111065db484221ad48ea</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 08:23:50</sys_created_on>
+        <sys_id>640427b587571110ecb4b8c4dabb3553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Integration Source</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_wizard_answer_640427b587571110ecb4b8c4dabb3553</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:23:50</sys_updated_on>
+        <table/>
+        <target_url>sn_sap_data_int_integrations_source.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

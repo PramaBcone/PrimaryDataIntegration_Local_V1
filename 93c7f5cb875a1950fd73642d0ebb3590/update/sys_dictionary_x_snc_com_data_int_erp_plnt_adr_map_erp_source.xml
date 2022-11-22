@@ -56,9 +56,9 @@
         <sys_id>f74d32984797955096fcb777746d43b7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ERP source</sys_name>
-        <sys_package display_value="Primary Data Integration for SAP" source="x_snc_com_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Primary Data Integration for SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_com_data_int_erp_plnt_adr_map_erp_source</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-17 13:44:21</sys_updated_on>

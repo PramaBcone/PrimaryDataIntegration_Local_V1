@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>sn_sap_data_int_look_up_service_master</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 08:23:48</sys_created_on>
+        <sys_id>d404e3b587571110ecb4b8c4dabb35fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_sap_data_int_look_up_service_master</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d404e3b587571110ecb4b8c4dabb35fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:23:48</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</application>
+        <file_path/>
+        <instance_id>0d43ac04db1b15182f68c597059619dc</instance_id>
+        <instance_name>psmrepo1</instance_name>
+        <name>ua_table_licensing_config_d404e3b587571110ecb4b8c4dabb35fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>sn_sap_data_int_look_up_service_master</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-22 08:23:48</sys_created_on><sys_id>d404e3b587571110ecb4b8c4dabb35fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_sap_data_int_look_up_service_master</sys_name><sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package><sys_policy/><sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope><sys_update_name>ua_table_licensing_config_d404e3b587571110ecb4b8c4dabb35fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-22 08:23:48</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1105468472</payload_hash>
+        <record_name>sn_sap_data_int_look_up_service_master</record_name>
+        <reverted_from/>
+        <source>4740e4104f13111065db484221ad4899</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-11-17 02:17:52</sys_created_on>
+        <sys_id>ca596f3587971110ecb4b8c4dabb3517</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1848360d4800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table Subscription Configuration</type>
+        <update_guid>8a596f35be9711100b62e7214bbb5417</update_guid>
+        <update_guid_history>8a596f35be9711100b62e7214bbb5417:1105468472</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Krishna</sys_created_by>
+        <sys_created_on>2022-11-24 08:43:41</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>0dee8942d9174ad5b8e22945884e72b1</sys_id>
+        <sys_metadata>d404e3b587571110ecb4b8c4dabb35fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_sap_data_int_look_up_service_master</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope_delete display_value="">3b1319908ebb4a548e7d16c1ed008664</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_d404e3b587571110ecb4b8c4dabb35fa</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_d404e3b587571110ecb4b8c4dabb35fa">ca596f3587971110ecb4b8c4dabb3517</sys_update_version>
+        <sys_updated_by>Krishna</sys_updated_by>
+        <sys_updated_on>2022-11-24 08:43:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

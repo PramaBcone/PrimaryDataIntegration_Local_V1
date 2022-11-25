@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Look up Service Master">9060842047eadd1086887562846d4377</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Look up Service Masters</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_sap_data_int_look_up_service_master</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_sap_data_int.look_up_service_master_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2022-10-11 11:49:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9860842047eadd1086887562846d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Look up Service Masters</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_app_module_9860842047eadd1086887562846d437a</sys_update_name>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2022-10-11 11:49:48</sys_updated_on>
+        <timeline_page/>
+        <title>Look up Service Masters</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</application>
+        <file_path/>
+        <instance_id>0d43ac04db1b15182f68c597059619dc</instance_id>
+        <instance_name>psmrepo1</instance_name>
+        <name>sys_app_module_9860842047eadd1086887562846d437a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Look up Service Master">9060842047eadd1086887562846d4377</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Look up Service Masters</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_sap_data_int_look_up_service_master</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_sap_data_int.look_up_service_master_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>bcone</sys_created_by>
+        <sys_created_on>2022-10-11 11:49:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9860842047eadd1086887562846d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Look up Service Masters</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_app_module_9860842047eadd1086887562846d437a</sys_update_name>
+        <sys_updated_by>bcone</sys_updated_by>
+        <sys_updated_on>2022-10-11 11:49:48</sys_updated_on>
+        <timeline_page/>
+        <title>Look up Service Masters</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>-1182306284</payload_hash>
+        <record_name>Look up Service Masters</record_name>
+        <reverted_from/>
+        <source>aaf46082879b1110ecb4b8c4dabb35f0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 13:07:49</sys_created_on>
+        <sys_id>a405e082879b1110ecb4b8c4dabb35ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1849f73af9b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 13:07:49</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e005e082c59b1110dcc018440f1a19ae</update_guid>
+        <update_guid_history>e005e082c59b1110dcc018440f1a19ae:0,2130e80eb05b1110a9a173f25fba5113:-927535348,1b10640e725b1110708d5e14a3cd9ee9:0,cbc567f97b5711103334209ffdcc3843:-1182306284</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Look up Service Masters">b7ab3dae8f131110b491ace21171a45c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Krishna</sys_created_by>
+        <sys_created_on>2022-11-24 08:43:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0e08320386da412eb84ef3f01321ed69</sys_id>
+        <sys_metadata>9860842047eadd1086887562846d437a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Look up Service Masters</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_scope_delete display_value="">3b1319908ebb4a548e7d16c1ed008664</sys_scope_delete>
+        <sys_update_name>sys_app_module_9860842047eadd1086887562846d437a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9860842047eadd1086887562846d437a">a405e082879b1110ecb4b8c4dabb35ae</sys_update_version>
+        <sys_updated_by>Krishna</sys_updated_by>
+        <sys_updated_on>2022-11-24 08:43:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

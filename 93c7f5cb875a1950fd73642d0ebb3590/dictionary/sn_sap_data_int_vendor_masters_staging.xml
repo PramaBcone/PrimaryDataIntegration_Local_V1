@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Vendors" max_length="40" name="sn_sap_data_int_supplier_stg" sizeclass="3501" type="collection">
+    <element extends="sys_import_set_row" label="Vendor Masters Staging" max_length="40" name="sn_sap_data_int_vendor_masters_staging" sizeclass="3501" type="collection">
         <element label="Account Number of Vendor or Creditor" max_length="120" name="account_number_of_vendor_or_creditor" type="string"/>
         <element label="Central deletion block for master record" max_length="40" name="central_deletion_block_for_master_record" type="string"/>
         <element label="Company Code" max_length="120" name="company_code" type="string"/>

@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>true</active>
         <flow display_value="Retrieve Purchase Group from SAP">3dec1877473a111086887562846d4312</flow>
-        <import_set_tables>sn_sap_data_int_purc_grp_stg</import_set_tables>
+        <import_set_tables>sn_sap_data_int_lookup_purchase_group</import_set_tables>
         <name>Purchase Group</name>
         <order>200</order>
         <properties/>

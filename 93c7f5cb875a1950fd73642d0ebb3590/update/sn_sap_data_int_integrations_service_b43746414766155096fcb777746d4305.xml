@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>false</active>
         <flow display_value="Plant Address Master Data Pull from SAP">f5195c8d472ed15096fcb777746d432e</flow>
-        <import_set_tables>sn_sap_data_int_plant_add_stg</import_set_tables>
+        <import_set_tables>sn_sap_data_int_look_up_plant_address</import_set_tables>
         <name>Plant Address Master Data From SAP</name>
         <order>399</order>
         <properties/>

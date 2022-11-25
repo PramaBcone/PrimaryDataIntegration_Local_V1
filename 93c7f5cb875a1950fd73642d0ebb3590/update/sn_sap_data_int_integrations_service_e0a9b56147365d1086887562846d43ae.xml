@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>true</active>
         <flow display_value="Lookup Currency Data">920b65ed47b25d1086887562846d4351</flow>
-        <import_set_tables>sn_sap_data_int_currency_stg</import_set_tables>
+        <import_set_tables>sn_sap_data_int_currency_code_staging</import_set_tables>
         <name>Currency Data</name>
         <order>10</order>
         <properties/>

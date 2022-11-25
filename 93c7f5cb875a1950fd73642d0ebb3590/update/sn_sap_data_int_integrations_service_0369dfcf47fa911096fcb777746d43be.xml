@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>true</active>
         <flow display_value=" Fetch GL accounts from SAP ECC">ad7efd894797511086887562846d43d0</flow>
-        <import_set_tables>sn_sap_data_int_gl_stg</import_set_tables>
+        <import_set_tables>sn_sap_data_int_look_up_ledger_accounts</import_set_tables>
         <name>Import Ledger Account</name>
         <order>100</order>
         <properties/>

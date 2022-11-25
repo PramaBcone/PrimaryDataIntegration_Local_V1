@@ -13,7 +13,7 @@
 	// Add your code here
 
 })(source, target, map, log, action==="update");]]></script>
-        <source_table>sn_sap_data_int_plant_add_stg</source_table>
+        <source_table>sn_sap_data_int_look_up_plant_address</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>Priyanshi</sys_created_by>
         <sys_created_on>2022-11-18 07:01:01</sys_created_on>

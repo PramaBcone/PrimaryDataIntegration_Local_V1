@@ -14,7 +14,7 @@
 	return ""; // return the value to be put into the target field
 
 })(source);]]></source_script>
-        <source_table>sn_sap_data_int_currency_stg</source_table>
+        <source_table>sn_sap_data_int_currency_code_staging</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>shreenag.araga@snc</sys_created_by>
         <sys_created_on>2022-11-18 09:14:09</sys_created_on>

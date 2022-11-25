@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="bc3d21b9870f9d1093264085dabb355f" sys_domain="global" table="sn_sap_data_int_supplier_stg" version="3" view="">
+    <sys_ui_section caption="" section_id="bc3d21b9870f9d1093264085dabb355f" sys_domain="global" table="sn_sap_data_int_vendor_masters_staging" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>purchasing_organization</element>
             <position>0</position>
@@ -8,7 +8,7 @@
             <sys_id>343d21b9870f9d1093264085dabb3565</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>3c3d21b9870f9d1093264085dabb3565</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>bc3d21b9870f9d1093264085dabb3565</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -50,7 +50,7 @@
             <sys_id>303d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -64,7 +64,7 @@
             <sys_id>b03d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -78,7 +78,7 @@
             <sys_id>343d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -92,7 +92,7 @@
             <sys_id>b43d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -106,7 +106,7 @@
             <sys_id>383d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -120,7 +120,7 @@
             <sys_id>b83d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -134,7 +134,7 @@
             <sys_id>3c3d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -148,7 +148,7 @@
             <sys_id>bc3d21b9870f9d1093264085dabb3566</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -162,7 +162,7 @@
             <sys_id>303d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -176,7 +176,7 @@
             <sys_id>b03d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -190,7 +190,7 @@
             <sys_id>343d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -204,7 +204,7 @@
             <sys_id>b43d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -218,7 +218,7 @@
             <sys_id>383d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -232,7 +232,7 @@
             <sys_id>b83d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -246,7 +246,7 @@
             <sys_id>3c3d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -260,7 +260,7 @@
             <sys_id>bc3d21b9870f9d1093264085dabb3567</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -274,7 +274,7 @@
             <sys_id>303d21b9870f9d1093264085dabb3568</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-09 13:29:04</sys_updated_on>
             <sys_user/>
@@ -288,7 +288,7 @@
             <sys_id>1347ad848797d55093264085dabb3565</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-16 12:49:37</sys_updated_on>
             <sys_user/>
@@ -302,7 +302,7 @@
             <sys_id>a5086680879bd55093264085dabb3506</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-16 17:32:24</sys_updated_on>
             <sys_user/>
@@ -316,7 +316,7 @@
             <sys_id>4138a680879bd55093264085dabb3502</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-16 17:33:11</sys_updated_on>
             <sys_user/>
@@ -330,7 +330,7 @@
             <sys_id>4d58aa80879bd55093264085dabb357d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-16 17:33:44</sys_updated_on>
             <sys_user/>
@@ -344,7 +344,7 @@
             <sys_id>b2786e80879bd55093264085dabb355b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_supplier_stg" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_vendor_masters_staging" sys_domain="global" view="Default view">bc3d21b9870f9d1093264085dabb355f</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-11-16 17:34:24</sys_updated_on>
             <sys_user/>
@@ -353,7 +353,7 @@
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
-            <name>sn_sap_data_int_supplier_stg</name>
+            <name>sn_sap_data_int_vendor_masters_staging</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>Prama</sys_created_by>
@@ -362,7 +362,7 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>bc3d21b9870f9d1093264085dabb355f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sn_sap_data_int_supplier_stg</sys_name>
+            <sys_name>sn_sap_data_int_vendor_masters_staging</sys_name>
             <sys_overrides/>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>

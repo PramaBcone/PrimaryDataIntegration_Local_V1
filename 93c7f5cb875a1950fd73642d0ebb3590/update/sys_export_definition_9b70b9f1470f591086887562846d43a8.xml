@@ -15,7 +15,7 @@
         <sys_update_name>sys_export_definition_9b70b9f1470f591086887562846d43a8</sys_update_name>
         <sys_updated_by>Priyanshi</sys_updated_by>
         <sys_updated_on>2022-11-09 13:43:26</sys_updated_on>
-        <table_name>sn_sap_data_int_gl_stg</table_name>
+        <table_name>sn_sap_data_int_look_up_ledger_accounts</table_name>
         <view display_value="Exp_d9b70b9f1470f591086887562846d43a8" name="exp_d9b70b9f1470f591086887562846d43a8">ef70b9f1470f591086887562846d43a9</view>
     </sys_export_definition>
 </record_update>

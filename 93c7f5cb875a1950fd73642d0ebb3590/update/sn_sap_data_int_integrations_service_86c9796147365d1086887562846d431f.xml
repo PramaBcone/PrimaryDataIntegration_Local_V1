@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>false</active>
         <flow display_value="Lookup Exchange FX Data">382884b047aa915096fcb777746d4351</flow>
-        <import_set_tables>sn_sap_data_int_fx_rate_stg</import_set_tables>
+        <import_set_tables>sn_sap_data_int_fx_exchange_rate_staging</import_set_tables>
         <name>Exchange FX Data</name>
         <order>20</order>
         <properties/>

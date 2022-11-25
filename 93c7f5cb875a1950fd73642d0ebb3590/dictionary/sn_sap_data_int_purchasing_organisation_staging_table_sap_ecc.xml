@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Purchase Organizations" max_length="40" name="sn_sap_data_int_purc_org_stg" sizeclass="565" type="collection">
+    <element extends="sys_import_set_row" label="Purchasing Organisation Staging Table (SAP ECC)" max_length="40" name="sn_sap_data_int_purchasing_organisation_staging_table_sap_ecc" sizeclass="565" type="collection">
         <element label="Calculation Schema for Market Price" max_length="6" name="calculation_schema_for_market_price" type="string"/>
         <element label="Client" max_length="3" name="client" type="string"/>
         <element label="Company Code" max_length="4" name="company_code" type="string"/>

@@ -5,7 +5,7 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>Plant Address  </name>
+        <name>Look Up Plant Address  </name>
         <order>100</order>
         <roles>sn_sap_data_int.look_up_plant_address_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
@@ -15,7 +15,7 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>40dcc04d47ead15096fcb777746d43e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Plant Address  </sys_name>
+        <sys_name>Look Up Plant Address  </sys_name>
         <sys_overrides/>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
@@ -23,7 +23,7 @@
         <sys_update_name>sys_app_application_40dcc04d47ead15096fcb777746d43e6</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
         <sys_updated_on>2022-10-13 02:01:06</sys_updated_on>
-        <title>Plant Address  </title>
+        <title>Look Up Plant Address  </title>
         <view_name/>
     </sys_app_application>
 </record_update>

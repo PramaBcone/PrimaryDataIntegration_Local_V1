@@ -13,7 +13,7 @@
 	// Add your code here
 
 })(source, target, map, log, action==="update");]]></script>
-        <source_table>sn_sap_data_int_fx_rate_stg</source_table>
+        <source_table>sn_sap_data_int_fx_exchange_rate_staging</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>shreenag.araga</sys_created_by>
         <sys_created_on>2022-10-17 12:09:14</sys_created_on>

@@ -4,7 +4,7 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>sn_sap_data_int_purc_grp_stg</name>
+        <name>sn_sap_data_int_lookup_purchase_group</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>

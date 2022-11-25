@@ -4,8 +4,8 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on sn_sap_data_int_purc_grp_stg</description>
-        <name>sn_sap_data_int_purc_grp_stg</name>
+        <description>Default access control on sn_sap_data_int_lookup_purchase_group</description>
+        <name>sn_sap_data_int_lookup_purchase_group</name>
         <operation display_value="Global">create</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>

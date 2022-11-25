@@ -7,7 +7,7 @@
         <hint/>
         <name>Currencies</name>
         <order>100</order>
-        <roles>sn_sap_data_int.currency_stg_user</roles>
+        <roles>sn_sap_data_int.currency_code_staging_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>shreenag.araga</sys_created_by>
         <sys_created_on>2022-10-11 08:57:37</sys_created_on>

@@ -7,7 +7,7 @@
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>sn_sap_data_int.le_stg_user</roles>
+        <roles>sn_sap_data_int.look_up_legal_entity_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>akash</sys_created_by>
         <sys_created_on>2022-10-11 08:01:37</sys_created_on>

@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_a5a598bf47f6111086887562846d43aa</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
         <sys_updated_on>2022-11-03 01:58:41</sys_updated_on>
-        <sys_user_role display_value="Primary Data Integration with SAP" name="sn_sap_data_int.purc_grp_stg_user">49a5d4bf47f6111086887562846d43d4</sys_user_role>
+        <sys_user_role display_value="Primary Data Integration with SAP" name="sn_sap_data_int.lookup_purchase_group_user">49a5d4bf47f6111086887562846d43d4</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

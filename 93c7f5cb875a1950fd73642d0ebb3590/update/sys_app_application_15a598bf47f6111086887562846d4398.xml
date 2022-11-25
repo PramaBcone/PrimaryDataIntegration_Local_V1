@@ -7,7 +7,7 @@
         <hint/>
         <name>Purchase Group</name>
         <order>100</order>
-        <roles>sn_sap_data_int.purc_grp_stg_user</roles>
+        <roles>sn_sap_data_int.lookup_purchase_group_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>bcone</sys_created_by>
         <sys_created_on>2022-11-03 01:58:40</sys_created_on>

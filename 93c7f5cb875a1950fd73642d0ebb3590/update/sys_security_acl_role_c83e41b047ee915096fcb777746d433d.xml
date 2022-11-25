@@ -5,7 +5,7 @@
         <sys_created_on>2022-10-12 12:08:14</sys_created_on>
         <sys_id>c83e41b047ee915096fcb777746d433d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_sap_data_int_purc_org_stg.sn_sap_data_int.purc_org_stg_user</sys_name>
+        <sys_name>sn_sap_data_int_purc_org_stg.sn_sap_data_int.purchasing_organisation_staging_table_sap_ecc_user</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_c83e41b047ee915096fcb777746d433d</sys_update_name>
         <sys_updated_by>Midhat</sys_updated_by>
         <sys_updated_on>2022-10-12 12:08:14</sys_updated_on>
-        <sys_user_role display_value="Primary Data Integration with SAP" name="sn_sap_data_int.purc_org_stg_user">6b2ecd7047ee915096fcb777746d4378</sys_user_role>
+        <sys_user_role display_value="Primary Data Integration with SAP" name="sn_sap_data_int.purchasing_organisation_staging_table_sap_ecc_user">6b2ecd7047ee915096fcb777746d4378</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

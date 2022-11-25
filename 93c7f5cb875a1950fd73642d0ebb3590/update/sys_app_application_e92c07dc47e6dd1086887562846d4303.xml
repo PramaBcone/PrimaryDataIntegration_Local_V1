@@ -7,7 +7,7 @@
         <hint/>
         <name>Look up Legal Entity</name>
         <order>100</order>
-        <roles>sn_sap_data_int.le_stg_user</roles>
+        <roles>sn_sap_data_int.look_up_legal_entity_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>akash</sys_created_by>
         <sys_created_on>2022-10-11 08:01:36</sys_created_on>

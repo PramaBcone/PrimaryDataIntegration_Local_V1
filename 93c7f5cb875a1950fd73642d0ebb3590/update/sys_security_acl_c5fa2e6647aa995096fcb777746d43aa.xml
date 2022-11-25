@@ -4,8 +4,8 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on sn_sap_data_int_cost_center_staging_table_sap_ecc</description>
-        <name>sn_sap_data_int_cost_center_staging_table_sap_ecc</name>
+        <description>Default access control on sn_sap_data_int_cc_stg</description>
+        <name>sn_sap_data_int_cc_stg</name>
         <operation display_value="Global">read</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
@@ -13,7 +13,7 @@
         <sys_created_on>2022-10-18 05:22:54</sys_created_on>
         <sys_id>c5fa2e6647aa995096fcb777746d43aa</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_sap_data_int_cost_center_staging_table_sap_ecc</sys_name>
+        <sys_name>sn_sap_data_int_cc_stg</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>

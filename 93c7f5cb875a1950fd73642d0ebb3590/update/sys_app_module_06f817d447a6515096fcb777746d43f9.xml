@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Currency Code Staging">8af817d447a6515096fcb777746d43f5</application>
+        <application display_value="Currencies">8af817d447a6515096fcb777746d43f5</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -10,9 +10,9 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Currency Code Stagings</mobile_title>
+        <mobile_title>Currenciess</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>sn_sap_data_int_currency_code_staging</name>
+        <name>sn_sap_data_int_currency_stg</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -25,7 +25,7 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>06f817d447a6515096fcb777746d43f9</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Currency Code Stagings</sys_name>
+        <sys_name>Currenciess</sys_name>
         <sys_overrides/>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
@@ -34,7 +34,7 @@
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2022-11-21 14:00:28</sys_updated_on>
         <timeline_page/>
-        <title>Currency Code Stagings</title>
+        <title>Currenciess</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

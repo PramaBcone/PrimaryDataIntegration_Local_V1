@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Lookup Purchase Group">ada598bf47f6111086887562846d439f</application>
+        <application display_value="Purchase Group">ada598bf47f6111086887562846d439f</application>
         <filter/>
-        <name>Lookup Purchase Groups</name>
+        <name>Purchase Groups</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
@@ -22,7 +22,7 @@
         <sys_update_name>sys_ui_module_eda598bf47f6111086887562846d43a2</sys_update_name>
         <sys_updated_by>bcone</sys_updated_by>
         <sys_updated_on>2022-11-03 01:58:41</sys_updated_on>
-        <table>sn_sap_data_int_lookup_purchase_group</table>
+        <table>sn_sap_data_int_purc_grp_stg</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>

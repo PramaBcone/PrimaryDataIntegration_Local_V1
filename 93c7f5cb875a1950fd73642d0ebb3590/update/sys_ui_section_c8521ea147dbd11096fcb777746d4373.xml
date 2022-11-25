@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="c8521ea147dbd11096fcb777746d4373" sys_domain="global" table="sn_sap_data_int_cost_center_staging_table_sap_ecc" version="3" view="">
+    <sys_ui_section caption="" section_id="c8521ea147dbd11096fcb777746d4373" sys_domain="global" table="sn_sap_data_int_cc_stg" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>0</position>
@@ -8,7 +8,7 @@
             <sys_id>c8521ea147dbd11096fcb777746d437a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>c0521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>44521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -50,7 +50,7 @@
             <sys_id>c4521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -64,7 +64,7 @@
             <sys_id>48521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -78,7 +78,7 @@
             <sys_id>c8521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -92,7 +92,7 @@
             <sys_id>4c521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -106,7 +106,7 @@
             <sys_id>cc521ea147dbd11096fcb777746d437b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -120,7 +120,7 @@
             <sys_id>40521ea147dbd11096fcb777746d437c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -134,7 +134,7 @@
             <sys_id>c0521ea147dbd11096fcb777746d437c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -148,7 +148,7 @@
             <sys_id>44521ea147dbd11096fcb777746d437c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -162,7 +162,7 @@
             <sys_id>c4521ea147dbd11096fcb777746d437c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -176,7 +176,7 @@
             <sys_id>c8525ea147dbd11096fcb777746d43f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -190,7 +190,7 @@
             <sys_id>4c525ea147dbd11096fcb777746d43f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -204,7 +204,7 @@
             <sys_id>cc525ea147dbd11096fcb777746d43f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -218,7 +218,7 @@
             <sys_id>40525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -232,7 +232,7 @@
             <sys_id>c0525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -246,7 +246,7 @@
             <sys_id>44525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -260,7 +260,7 @@
             <sys_id>c4525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -274,7 +274,7 @@
             <sys_id>48525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -288,7 +288,7 @@
             <sys_id>c8525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -302,7 +302,7 @@
             <sys_id>4c525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -316,7 +316,7 @@
             <sys_id>cc525ea147dbd11096fcb777746d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -330,7 +330,7 @@
             <sys_id>40525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -344,7 +344,7 @@
             <sys_id>c0525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -358,7 +358,7 @@
             <sys_id>44525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -372,7 +372,7 @@
             <sys_id>c4525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -386,7 +386,7 @@
             <sys_id>48525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -400,7 +400,7 @@
             <sys_id>c8525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -414,7 +414,7 @@
             <sys_id>4c525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -428,7 +428,7 @@
             <sys_id>cc525ea147dbd11096fcb777746d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -442,7 +442,7 @@
             <sys_id>40525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -456,7 +456,7 @@
             <sys_id>c0525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -470,7 +470,7 @@
             <sys_id>44525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -484,7 +484,7 @@
             <sys_id>c4525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -498,7 +498,7 @@
             <sys_id>48525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -512,7 +512,7 @@
             <sys_id>c8525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -526,7 +526,7 @@
             <sys_id>4c525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -540,7 +540,7 @@
             <sys_id>cc525ea147dbd11096fcb777746d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -554,7 +554,7 @@
             <sys_id>40525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -568,7 +568,7 @@
             <sys_id>c0525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -582,7 +582,7 @@
             <sys_id>44525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -596,7 +596,7 @@
             <sys_id>c4525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -610,7 +610,7 @@
             <sys_id>48525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -624,7 +624,7 @@
             <sys_id>c8525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -638,7 +638,7 @@
             <sys_id>4c525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -652,7 +652,7 @@
             <sys_id>dc525ea147dbd11096fcb777746d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -666,7 +666,7 @@
             <sys_id>50525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -680,7 +680,7 @@
             <sys_id>d0525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -694,7 +694,7 @@
             <sys_id>54525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -708,7 +708,7 @@
             <sys_id>d4525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -722,7 +722,7 @@
             <sys_id>58525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -736,7 +736,7 @@
             <sys_id>d8525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -750,7 +750,7 @@
             <sys_id>5c525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -764,7 +764,7 @@
             <sys_id>dc525ea147dbd11096fcb777746d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -778,7 +778,7 @@
             <sys_id>50525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -792,7 +792,7 @@
             <sys_id>d0525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -806,7 +806,7 @@
             <sys_id>54525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -820,7 +820,7 @@
             <sys_id>d4525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -834,7 +834,7 @@
             <sys_id>58525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -848,7 +848,7 @@
             <sys_id>d8525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -862,7 +862,7 @@
             <sys_id>5c525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -876,7 +876,7 @@
             <sys_id>dc525ea147dbd11096fcb777746d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -890,7 +890,7 @@
             <sys_id>50525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -904,7 +904,7 @@
             <sys_id>d0525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -918,7 +918,7 @@
             <sys_id>54525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -932,7 +932,7 @@
             <sys_id>d4525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -946,7 +946,7 @@
             <sys_id>58525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -960,7 +960,7 @@
             <sys_id>d8525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -974,7 +974,7 @@
             <sys_id>5c525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:25</sys_updated_on>
             <sys_user/>
@@ -988,7 +988,7 @@
             <sys_id>dc525ea147dbd11096fcb777746d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1002,7 +1002,7 @@
             <sys_id>50525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1016,7 +1016,7 @@
             <sys_id>d0525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1030,7 +1030,7 @@
             <sys_id>54525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1044,7 +1044,7 @@
             <sys_id>d4525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1058,7 +1058,7 @@
             <sys_id>58525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1072,7 +1072,7 @@
             <sys_id>d8525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1086,7 +1086,7 @@
             <sys_id>5c525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1100,7 +1100,7 @@
             <sys_id>dc525ea147dbd11096fcb777746d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 07:48:26</sys_updated_on>
             <sys_user/>
@@ -1114,7 +1114,7 @@
             <sys_id>d2988f254713151096fcb777746d43b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cost_center_staging_table_sap_ecc" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_cc_stg" sys_domain="global" view="Default view">c8521ea147dbd11096fcb777746d4373</sys_ui_section>
             <sys_updated_by>Midhat</sys_updated_by>
             <sys_updated_on>2022-11-21 11:45:35</sys_updated_on>
             <sys_user/>
@@ -1123,7 +1123,7 @@
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
-            <name>sn_sap_data_int_cost_center_staging_table_sap_ecc</name>
+            <name>sn_sap_data_int_cc_stg</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>Midhat</sys_created_by>
@@ -1132,7 +1132,7 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c8521ea147dbd11096fcb777746d4373</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sn_sap_data_int_cost_center_staging_table_sap_ecc</sys_name>
+            <sys_name>sn_sap_data_int_cc_stg</sys_name>
             <sys_overrides/>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>

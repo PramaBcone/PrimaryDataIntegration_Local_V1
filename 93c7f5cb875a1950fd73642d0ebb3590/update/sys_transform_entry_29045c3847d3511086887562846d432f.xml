@@ -19,7 +19,7 @@
 		 }
 
 })(source);]]></source_script>
-        <source_table>sn_sap_data_int_look_up_plant_address</source_table>
+        <source_table>sn_sap_data_int_plant_add_stg</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>Priyanshi</sys_created_by>
         <sys_created_on>2022-11-18 14:42:20</sys_created_on>

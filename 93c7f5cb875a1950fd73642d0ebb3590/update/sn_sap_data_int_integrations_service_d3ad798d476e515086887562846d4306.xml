@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>false</active>
         <flow display_value="Import Legal Entity from SAP">2b619fd0472add1086887562846d437e</flow>
-        <import_set_tables>sn_sap_data_int_look_up_legal_entity</import_set_tables>
+        <import_set_tables>sn_sap_data_int_le_stg</import_set_tables>
         <name>Legal Entity</name>
         <order>200</order>
         <properties/>

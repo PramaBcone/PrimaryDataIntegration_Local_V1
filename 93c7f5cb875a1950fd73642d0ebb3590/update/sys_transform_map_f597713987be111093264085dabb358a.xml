@@ -13,7 +13,7 @@
 	
 	
 })(source, target, map, log, action==="update");]]></script>
-        <source_table>sn_sap_data_int_payment_terms_staging</source_table>
+        <source_table>sn_sap_data_int_pay_term_stg</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>Prama</sys_created_by>
         <sys_created_on>2022-10-28 03:59:23</sys_created_on>

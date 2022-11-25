@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>false</active>
         <flow display_value="Import Purchasing Organisation from SAP ECC - Copied">31d95e8947a6155096fcb777746d4317</flow>
-        <import_set_tables>sn_sap_data_int_purchasing_organisation_staging_table_sap_ecc</import_set_tables>
+        <import_set_tables>sn_sap_data_int_purc_org_stg</import_set_tables>
         <name>Purchasing Organisation</name>
         <order>250</order>
         <properties/>

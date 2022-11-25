@@ -14,7 +14,7 @@
 	return ""; // return the value to be put into the target field
 
 })(source);]]></source_script>
-        <source_table>sn_sap_data_int_look_up_legal_entity</source_table>
+        <source_table>sn_sap_data_int_le_stg</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>akash</sys_created_by>
         <sys_created_on>2022-11-19 11:53:24</sys_created_on>

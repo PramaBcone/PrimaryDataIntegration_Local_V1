@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="05cb9976873e15103844b8c4dabb35ea" sys_domain="global" table="sn_sap_data_int_payment_terms_staging" version="3" view="">
+    <sys_ui_section caption="" section_id="05cb9976873e15103844b8c4dabb35ea" sys_domain="global" table="sn_sap_data_int_pay_term_stg" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>payment_term</element>
             <position>0</position>
@@ -8,7 +8,7 @@
             <sys_id>c9cb9976873e15103844b8c4dabb35ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_payment_terms_staging" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-10-31 04:31:07</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>c1cb9976873e15103844b8c4dabb35f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_payment_terms_staging" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-10-31 04:31:07</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>45cb9976873e15103844b8c4dabb35f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_payment_terms_staging" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
             <sys_updated_by>Prama</sys_updated_by>
             <sys_updated_on>2022-10-31 04:31:07</sys_updated_on>
             <sys_user/>
@@ -45,7 +45,7 @@
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
-            <name>sn_sap_data_int_payment_terms_staging</name>
+            <name>sn_sap_data_int_pay_term_stg</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>Prama</sys_created_by>
@@ -54,7 +54,7 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>05cb9976873e15103844b8c4dabb35ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sn_sap_data_int_payment_terms_staging</sys_name>
+            <sys_name>sn_sap_data_int_pay_term_stg</sys_name>
             <sys_overrides/>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>

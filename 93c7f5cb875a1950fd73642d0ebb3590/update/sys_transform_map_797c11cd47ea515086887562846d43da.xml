@@ -13,7 +13,7 @@
 	// Add your code here
 
 })(source, target, map, log, action==="update");]]></script>
-        <source_table>sn_sap_data_int_look_up_legal_entity</source_table>
+        <source_table>sn_sap_data_int_le_stg</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>akash</sys_created_by>
         <sys_created_on>2022-10-13 07:50:22</sys_created_on>

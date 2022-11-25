@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>true</active>
         <flow display_value="Import Payment Term from SAP ECC">3faca11d87fa195093264085dabb35f9</flow>
-        <import_set_tables>sn_sap_data_int_payment_terms_staging</import_set_tables>
+        <import_set_tables>sn_sap_data_int_pay_term_stg</import_set_tables>
         <name>Payment Term</name>
         <order>100</order>
         <properties/>

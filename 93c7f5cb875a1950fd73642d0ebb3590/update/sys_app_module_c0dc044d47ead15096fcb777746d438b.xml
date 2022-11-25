@@ -17,7 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>sn_sap_data_int.look_up_plant_address_user</roles>
+        <roles>sn_sap_data_int.plant_add_stg_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>bcone</sys_created_by>
         <sys_created_on>2022-10-13 02:01:06</sys_created_on>

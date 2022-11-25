@@ -2,7 +2,7 @@
     <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
         <active>false</active>
         <flow display_value="Retrieve Vendors">fd461ed08726d51093264085dabb357e</flow>
-        <import_set_tables>x_snc_supl_mgmt_in_vendor_master_staging</import_set_tables>
+        <import_set_tables>sn_sap_data_int_supplier_stg</import_set_tables>
         <name>Vendor Master</name>
         <order>2000</order>
         <properties>{"temp_row_count":"7","temp_until_rows":"7"}</properties>

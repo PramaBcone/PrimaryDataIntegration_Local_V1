@@ -17,7 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>sn_sap_data_int.cost_center_staging_table_sap_ecc_user</roles>
+        <roles>sn_sap_data.int_cc_stg_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>Midhat</sys_created_by>
         <sys_created_on>2022-10-18 05:22:53</sys_created_on>

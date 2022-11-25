@@ -7,7 +7,7 @@
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>sn_sap_data_int.look_up_ledger_accounts_user</roles>
+        <roles>sn_sap_data_int.gl_stg_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>bcone</sys_created_by>
         <sys_created_on>2022-10-12 13:16:23</sys_created_on>

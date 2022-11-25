@@ -17,7 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>sn_sap_data_int.payment_terms_staging_user</roles>
+        <roles>sn_sap_data_int.pay_term_stg_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>Prama</sys_created_by>
         <sys_created_on>2022-10-28 03:53:30</sys_created_on>
